@@ -1,0 +1,418 @@
+December 2. 1988
+
+Winners of GFL tournament
+give exhibition in 8. Lounge
+
+by John Newmark
+
+On Monday, Nov. 28, The
+Grinnell Forensics League had a
+tournament among themselves in
+the events of Poetry, Prose,
+Dramatic Interpretation, Original
+Oratory, Extemporaneous speak-
+ing, and Impromptu speaking,
+The winners gave an exhibition
+to a group of students in South
+Lounge on Wednesday. Nov. 30.
+
+In the poetry event. Shelley
+West read "America," in which
+Allen Ginsberg heraies America
+for everything it has done to him.
+Alyssa Naumann, vvmner in the
+prose category, read Garrison
+Keilor's "Shy Righls Manifesto."
+a manifesto demanding that the
+shy people of America be given
+their rights, now, or at least
+sometime in the near future, or
+any time at all, whenever the na-
+tion feels like it.
+
+The dramatic Interpretation,
+performed by Ali Wade, was
+"Rupert‘s Birthday." about a
+woman who celebrated no public
+works holidays, but only the
+birthday of Rupert, a bullrcalf.
+The woman witnessed the light
+coming into Rupert's eyes when
+he was born, and the light going
+out when he was shot in the
+head, by the butcher, before being
+
+slaughtered. She was only 14 at
+the time.
+
+Rashmi Dyal-Chand’s
+original oratory lamented the do
+parlure of the visionary American
+Dreams of Thomas Jefferson,
+Henry David Thoreau, and Martin
+Luther King, and their replace
+mcnt by the materialistic dreams
+of tnodern society.
+
+All of these events were
+pro-prepared. The participants
+had the leisure of planning their
+readings or oratories and practice
+ing them for the past few weeks.
+However, for the two remaining
+categories, the participants had no
+idea what they were going to
+speak about until the night of the
+tournament and the night of the
+exhibition. The topics were dif-
+ferent on each of these occasions.
+
+For cxtemporaneous
+speaking, Bruce Friedrich drew
+his topic 30 minutes before he
+had to deliver it. Monday night
+
+at the tournament. his winning
+speech was on Bush's promise of
+"no new taxes." why he shouldn‘t
+break it, but why he would have
+to. Wednesday night he spoke
+about the Education system in
+America, why it was just as good
+
+Inside the Computer
+Custom Commands
+
+by John Newmark
+
+If you use the computer
+fairly often, even if only for
+writing papers, you may find
+yourself typing the same come
+mands over and over again. If the
+commands happen to be long
+ones, as some of them are, you
+might desire a way to shorten
+them. There is a way .. use a
+login.com.
+
+A Login.Com is a “18 that
+is automatically run every time
+you login. In order to set one up,
+type: EDT LOGIN.COM; on the
+bottom of the screen in reverse
+letters will appear the words: In-
+put file does not exist and [EOE]
+will appear at the top of the
+screen You are now ready to cre-
+ate the file.
+
+Every line must begin with
+a ”".$ In order to redefine a
+command, follow the $ with a
+statement in the format: New—
+CommandWord ' Old Com-
+mands. e.g. S Runoff = Runoff
+Backspace /Down=2 Pressing
+PflrE will save the file,
+
+Now, every time you lo-
+gtn, the command ‘Runoff‘ will
+be defined as Runoff Backspace
+/Dowri=2, and you will only have
+to type "Runoff filename" to
+runoff your papers. To make the
+command even shorter you could
+include this line in your Io-
+gin.com: S R ' Runoff
+/Baekspace /D0wn=2
+
+Then you would only have
+to type "R filenamc" to runoff
+the paper.
+
+You can rename any come
+manrl In a similar fashion, and
+your login.com can be as long as
+
+you like. Whenever you want to
+add more lines just retype: EDT
+login.com; add the line always
+making sure it begins with a S
+and follows the format New-
+Command Old Command.
+
+Here is a sample L0,
+gin.com:
+
+Dreams Mail/New
+Phone
+hone Answer
+Show Users
+3 Set Process/Name =
+"CmpqusCanEFun"
+8 Set prompt: "Yes Master? "
+
+The last two lines you will
+notice are different. They will set
+your process name and prompt
+permanently (or unLil you change
+your login.com). The process
+name appears whenever you type
+Show Users, and unless you set
+it, will be your usemame. The
+Prompt is normally a 's', and ap-
+pears immediately in front of the
+cursor at the beginning of each
+line. (Even if you redeﬁne your
+
+as the educational systems of
+other nations, but also ways that
+it could be improved.
+
+In impromptu speaking,
+the top 3 contestants Monday
+night competed Wednesday night
+for the audience to judge. These
+three contestants were Heather
+Terrence, Rob Sparks, and Bruce
+Friedrich. They all had a total of
+6 minutes to draw 3 topics,
+choose I, and give a short,
+preferably humorous speech.
+Heather spoke on computer geeks
+and the advantages and disadvan-
+tages of allowing them into
+Grinnell. Rob Sparks spoke
+about long underwear, how they
+worked. what materials were the
+best, and what colors were most
+fashionable. Bruce Friedrich, the
+last speaker, related modern art to
+computer geeks. long underwear,
+and speech activities.
+
+After the evening was over,
+CrFL President Beth Wodzmski,
+announced that there were plans
+for another such exhibition next
+semester, as well as plans for at-
+tending both a Model UN session
+in February and collegiate tour-
+
+naments at nearby colleges and
+universities.
+
+prompt, every line in your to—
+gin.com still must begin with a
+'3’.)
+
+If you don't put these
+commands in your login,com
+you will have to type them in
+every time you login. which is
+certainly possible, but with a to
+gin.com you don‘t have to
+bother.
+
+As I emphasized lasl issue,
+if you want help setting up a lo-
+gincom, or need help in doing
+anything else on the computer,
+there is a place for you to go, and
+that is the UCs. It is their job to
+help you solve any problems you
+are having with the computer.
+Type Show Users. and each UC
+should have the letters "UC" in
+their process name, along With
+the telephone number of the ter-
+minal room where they are. You
+can call that number. and they
+will be glad to help you.
+
+The purpose of this column
+is to introduce you to things that
+can be done on the computer that
+perhaps you didn't. know were
+possible. If you don't know what
+is available, you won't know the
+right. questions to ask the UCs.
+
+I'c__““"‘""'__—__—"_ ____________
+
+LIP Gr SAVE CLIP 8t SAVE CLIP t5 SAVE'CLIP A SAVE CLIP 5 SAVE I}
+
+I
+I
+I
+l
+I
+l
+I
+I
+I
+I
+
+Central Iowa Family Planning, Inc.
+
+717 5th Avenue. Suite 4, Grinnell. Iowa 50112
+~Reprqductlve Health Care
+-Blrth Control OPregnancy Tests
+
+I
+I
+I
+I
+I
+Confidential—Affordable t
+Monday. Wednesday, Thursday, and Friday i
+9:00 am. till 5:00 pm. :
+
+I
+
+I
+
+.2
+
+236-7787
+
+LCLIP at SAVE CLIP 3. SAVE CLIP a SAVE CLIP is SAVE CLIP 5. SAVE
+
+ 
+
+Thanksgiving Dinner
+at Quad a success
+
+by Kim Ecknrt
+
+Thanksgiving break marked
+the last vacation before final ex»
+ams. For many, the fourrday rc~
+prieve was a chance to leave
+campus and visit family and
+friends. But for those who
+stayed, the holiday meal was
+spent at Quad, and the silence,
+interrupted only by televised
+football, enabled some to study.
+
+The meal was served fam-
+ilyrstyle, as students were en-
+couraged to arrive in groups and
+were seated by a member of the
+dining services Staff. Each table
+received a whole turkey, and
+dishes of the traditional items
+such as cranberry sauce and sweet
+potatoes were provided and re-
+ﬁlled upon request. wine glasses
+were also available for those who
+brought their own wine. "We try
+to plan a family-style dinner so it
+makes it a little easier for those
+students who can't go home,"
+said Quad dining hall manager
+TheresaGrier.
+
+Most students were pleased
+with the meal."Thc food was
+surprisingly good, and I was im-
+pressed with the atmosphere,"
+
+said a freshman.
+
+"It was relaxing and
+friendly. The meal was enjoys
+able, and it was nice to sit around
+with friends and eat a traditional
+meal." said a senior.
+
+According to Grier, there
+were fewer students attending the
+meal this year than last year.
+This year's meal count was 209,
+compared with last year's 27S.
+
+Sack snacks were provided
+after the meal, complete with
+bagels, cookies. fruit, and ice
+cream, "We realize that the
+snacks aren't a substitute for din-
+ner, but we hope the treats enable
+the students not to feel put out
+by not being served a normal
+dinner in the dining hall," said
+Grier.
+
+Aside from the meal, many
+students spent the fourrday vaca-
+tion relaxing. "There were
+enough people here that there was
+always someone to hang around
+With," said one freshman.
+"Although I didn‘t get anything
+done, I had enough work to do,"
+said another freshman,
+
+HUNDREDS or FINE WINES
+LlQuEuRs’s’ERANDiEs
+
+IMPORTED BEERS
+
+Package Includes
+lmpmted thluir
+2 mugs, "my! book
+
+ 
+
+main Street
+Mine atelier
+
+933% Main
+
+LIQUOR
+
+’r‘r‘SInTi‘JIZHﬁ‘www
+
+Mair. Street Wine Celinrr
+
+ﬂﬂﬂhﬁsmas
+
+please be safe!
+
+may thII
+Gin Ihms
+Inihblcl
+
+Hours
+In a,m.-I am.
+Morn-5n,
+sun, t-s par-r.
+
+ 
+
+ 
+
+215-5014 “- '
+
+Secretly Love your patents
+[or all their support?
+Say Thanks with a classy
+
+lttnkel from
+Vilttage Decorating
+when you go home
+
+\\)
+
+for Christmas.
+
+' ﬁttings Beaming
+
+an ill: Avert-it.- 236-33“ Gritrm-Il
+
+%
+
+ 
+

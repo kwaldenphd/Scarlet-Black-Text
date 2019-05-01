@@ -1,0 +1,329 @@
+Computers
+
+Continued from Page 3
+to "runoff" a paper and print it
+out.
+
+Another difficulty you
+might run into is creating a title
+page and a bibliography. The
+UC public library has a sample
+title page and bibliography you
+can copy right into your own ac
+count
+COPY [UCLIB.PUBLlC]
+TITLERNO; TITLErRNO; and
+COPY [UCLlBrPUBLlC]
+BlBLlOtRNO; BIBLIORNO
+You can then EDT these two
+files, which contain lenghty
+explanations, to suit your title
+page and bibliography
+
+Finally, you need to
+'runoff‘ the paper, and prim it
+out. First.
+RUNOFF PAPER.RNO
+/BACKSPACE /DOWN=2.
+This command will automatically
+include two extra blank lines at
+the beginning of the paper, After
+
+you do this, there will be a ﬁle in
+your account entitled
+PAPERMEM;
+
+TYPE PAPERMEM;
+and make sure it looks like the
+way you want it to printout. If
+there is a mistake.
+
+EDT PAPERRNO.
+Editing the MEM file will not
+work. Once you have made the
+corrections, you will have to re-
+runoff the new RNO ﬁle. Once
+you have a MEM ﬁle that you
+like,
+
+PRN PAPER.MEMt
+
+A long list of options will
+appear on the screen. If you want
+the paper to print out on the
+printer in the terminal room
+where you are, just press return.
+However, if you want a better
+copy on a laser printer in
+Carnegie or Burling, press "1"
+and then either a 2, 4, 9, or 10
+depending upon which laser
+
+SCARLET AND BLACK
+
+printer you want it to print out
+on. Make sure you know where
+the paper is going before you
+print it out, because you will
+have to pick it up. Once you
+make a choice on the printer, you
+will be returned to the main op-
+
+tions menu, and you can press
+return to print it out.
+
+If you have any problems
+don't hesitate to call a UC. Type
+SHOW USERS
+to see which UCs are currently
+logged on. Pick up a phone in
+your terminal room and call
+x4923 for the YMCA, x4921 for
+Darby, and x3370 for Burling.
+
+The UCs are there to help you.
+
+NEXT WEEK: How to make the
+computer more "user friendly"
+and accept "custom commands"
+by creating a LoginCom
+
+ 
+
+Music department
+
+Continued from Page 3
+
+private lessons are also available
+for most instruments, at all lev-
+els of instruction, For more in
+formation about ensembles (not
+all of which require auditions or
+experience) or lessons, contact
+the Fine Arts office (FA 100,
+x3064) There is something for
+everyone in the Grinnell Music
+
+Department
+
+Personal
+
+ON-CAMPUS TRAVEL
+REPRESENTATIVE 0R
+ORGANIZATION NEEDED
+TO PROMOTE
+
+SPRING BREAK TRIP to
+Florida or Texas. Earn
+money, free trips, and
+valuable work experience.
+Call Inter-Campus Pro-
+grams 1-800-433-7747.
+
+Assault
+
+Continued from Page 1
+
+The Grinnell Police were
+given a sketchy identiﬁcation of
+one of the attackers The attacker
+is a white male, about 5'8" of
+average build, with brown hair
+and glasses, The glasses are
+round, with brown plastic rims.
+
+"I talked with Tom Crady.
+who said the school would do
+everything it could to locate [the
+attackers]." said the student. "I
+don‘t think Student Affairs has
+enough to go on Anybody who
+has any information at all should
+go see Tom Crady. It can be
+completely confidential."
+
+CONGRATULATIONS
+
+on Health Center Inﬂuenza Clinic success!
+
+-Loose Dorm won the dorm prize for the highest participation (42%).
+
+- Eighty—five sudents won door prizes.
+
+- The Grimell College Health Center would like to thank the following
+merchants for their contributions of door/ dorm prizes which helped
+make the Influenza Clinic of Nov. 2 6: 3 a success:
+
+Bates Fluwers
+Ben Franklin
+Body Firm
+Bokluda
+
+Cinema Theatre
+College Bookstore
+
+College Grill
+
+Cunningham Drug Store
+Danish Maid Bakery
+
+Farmer Nick '5
+Gmifafher's Pizza
+Kuffez Shop
+
+The locker Roam
+
+Muir; Street Wine Cellar
+McNally’s Foods
+
+Peppercorn ’5
+
+Pizza Hut
+Tasty Tacos
+
+- Vaccines are STILL AVAILABLE at the Health Center, FREE.
+
+November 18, 1988
+
+Forensics League
+to hold tournament
+
+by John Newmark
+
+The Grinnell Forensics
+League (GFL) has gotten off to a
+rocky start this semester, but it
+looks as if there will ﬁnally be a
+mumament. Members were sup-
+posed to attend a toumamctlt in
+Mankato, Minnesota the last
+weekend of Fall break, but they
+were unable to obtain the money
+needed for the tournament. The
+trip was cancelled at the last
+moment.
+
+At the following meetings.
+the GFL scheduled a toumament
+for Grinnell students which will
+be held following Thanksgiving
+break. The 'toumament, consist»
+ing of such evean as extempora»
+neous speaking, impromptu
+speaking, original oratory. dra-
+matic interpretation. prose inter-
+pretation. and poetry interpreta»
+tion will be held the evening of
+Novr 28‘ The winners will pre-
+sent an exhibition for the rest of
+the campus on Nov. 30 at 7 pm.
+in South Lounge,
+
+While it has yet to attend
+
+McConnell
+
+Continued from Page 1
+
+McConnell believm that
+his qualifications as head of the
+post ofﬁce, library/bookstore, and
+his 20 years of dining service ex-
+perience are adequate preparation
+for the business dimensions of a
+senior ﬁnance manager.
+
+In the past 10 years, dining
+services has added the salad bar,
+the sack lunch program. a central
+bakery, and has adapted to the
+many dietary needs of the student
+body, such as the vegetarian en-
+trees. the trend to less fried food
+and less red meat consumption.
+
+However, McConnell
+would like to add more features to
+tlte dining halls after the renovar
+Lion of ARI-l and the new student
+center, “We must first try to
+meet the academic and social
+needs of the students. as it is
+more imponant to receive a qual-
+ity education." he said. Mc-
+
+g |llllllllll|llt|lllllllll[Illlll|llllllll||llllllllllllllltlllllllll
+
+an intercollegiate tournament, the
+organization, which includes ap-
+proximately 26 members. has not
+given up hope for attending such
+a tournament second scmcstcrr
+
+GFL also hopes to attend
+the Midwest Model United Na-
+tions Conference scheduled in
+February
+
+One of the biggest prob
+lems the organization is having
+is ﬁnding faculty support. In or—
+der to attend collegiate toumav
+merits, the League must provide
+judges, Any interested faculty
+member should contact Beth
+Wodzinski or write to [GFL] over
+the computer.
+
+Any student interested in
+participating in the upcoming
+tournament after break should
+Contact the organization immedi-
+ately, Everyone is welcome to
+participate. Weekly meetings are
+held at 9:30 pm. Monday nights
+in the Human Resource Center
+(HRC)
+
+Connell then would like to focus
+on offering more variety in food
+and improved dining facilities,
+
+According to McConnell.
+the current physical facilities
+constrain the improvement and/or
+addition of dining halls. His
+long-term goal is a central dining
+hall, blending the two sides of
+campus. This, he adds, would be
+considered on student support.
+McConnell also hopes to
+eventually add such features as a
+speed line and 3 pasta barf
+"Right now, because of our lim-
+ited physical facilities. we have
+no time frame for expansion," he
+said.
+
+McConnell expressed his
+ongoing concern for the future of
+dining services. "I'm not ever
+satisfied about where we can be,"
+he said.
+
+IIll|IIlIl|Illlllllllllllllllllt
+
+Free Delivery
+Regular or Deep Dish
+Pizzas
+816 5th Ave.
+
+236-5331
+
+Sun-Thur 5pm-1 1pm
+
+Fri & Sat 5pm-12am ' . ,, , E g
+ﬁllIlll|ill|Ill||||llllllll|||ll|llIll|IllIllllilillllllilll|Ill[IlllllllllllllillIlllllllllllllllIllllllllllllllilllﬁ
+
+ 
+

@@ -1,0 +1,321 @@
+Scarlet ‘
+
+September 2, 2005
+
+SGA President and Vi:
+”gel involved!”
+
+Newx, p, :
+
+Sludenf
+perspectives
+
+rsotvtsi, p. 5
+
+ 
+
+Volume 122, Number 1
+
+Firsi College Newspaper West of file Mississippi
+
+ 
+
+New students enter
+Grinnell with a bang
+
+A party break-up and a hospitalization
+mark the opening weeks of first year
+
+student experience
+BY SARA MIRK AND BRIAN PERBRIX
+
+Last Tuesday night, the Grinnell police department had a rodent
+problem, of sorts,
+
+The police received a noise complaint for the annual off-campus
+party known as ‘Gerbilfest.’ Held in a house on High Street, the
+party is a beginning ofthe school year triidiiion in which upperciasst
+men welcome the ﬁrsttyeais, or “gerbils," to Grinnell.
+
+According to party hosts Joe Reth ’07, Sean Flynt‘o7, and Doug
+Ticus ’07, a police on arrived at the house around ii p.m,Tlie ot-
+ﬁcers asked itthere was any underage drinking, and whether any of
+the particrs were planning to drive drunk back to campus.
+
+Reth said he was “unaware if anyone was underage and that
+everyone was a student at Grinnell, so they would All be walking
+home.”Ovei-ull, he felt that the police were “polite and understands
+in .
+gAfl’cr the initial questioning, the police continued to drive up
+and down the block, stopping by the house twic'e more in response
+to another noise complaint. When the hosts were told that they
+would be issued a writeup if another complaint was received, the
+party ended.
+
+Campus ofﬁcials had no comment regarding the incident since
+it occurred off campus and outside of itsjurisdiction. Because there
+were no serious infractions reported, the police department did not
+notify the college.
+
+The encounter at Gerbilfest comes on the heels of what many
+on campus felt was an especially rowdy New student Orientation.
+Grinnell police chief Jody Mathtrly said that complaints regard
+ing alcohol in the streets and boisterous behaVior have been "a little
+more frequent than in past years.”
+
+Student services conﬁrmed a case ofalcohol poisoning involv-
+ing a ﬁrstsyear student that resulted in hospitalization. The student
+reportedly ingested alcohol from multiple sources in a nontparty
+settin .
+
+Ingan average year, Grinnell reports seven to 10 cases of alcohol
+poisoning. Federal law ohliges the college to respond with loosely
+deﬁned penal measures.
+
+According to Sheree Andrews, assistant dean of Student Affairs,
+Grinnell's policy regarding alcohol emphasizes treatment rather
+than judicial recourse. It is not known whether charges will be filed
+in relation to the alcohol poisoning.
+
+ 
+
+Tim Naytc Plate II romtmtli'ari rite. Currant/y Wtitz Coﬂlffliifmﬂ is m'l/ in rbrpmmr afismaor‘ng until/mm 10/}!!! will detour:
+tetﬁnndrtzian aft/IE expansion. Phase II will it romp/rad in the summer of2007.
+
+Construction, effects continue
+
+Bv REBECCA TAYLOR
+
+Students returned to an unfamiliar
+campus last week. over their summer
+break, construction had continued on
+the Joe Rosenfield ’25 Campus Center
+and had begun on Phase II of Noyce
+Science Center.
+
+Industrial machines, trailers, and
+trucks have found a home on formerly
+grassy fields.
+
+The college is constructing the ads
+jaccnt projects simultaneously. Over
+the summer the campus center’s exte-
+rior walls were erected, while part of
+Noyce was demolished.
+
+students do not always welcome
+development and the added Construv
+tion has attracted some student critir
+cism. The gravelly area next to Noyce
+serves as a staging ground for the con-
+
+struction work, and the trailers between
+Noyce and ARH are used as tool sheds
+and offices. The fenced-off area forces
+North Campus students heading to
+Noyce to take a route along the west
+side ofARH.
+
+While acknowledging inconvet
+niences, Ryan Lyerla ’03 said that “all in
+all, it really doesn’t bother me because
+in a couple years we‘ll be able to take
+advantage of the facilities."
+
+“We are right on track," said Marci
+Sorter, director of Institutional Plant
+ning, adding that the college arranged
+the construction so the most disruptive
+steps would occur over the summer.
+
+According to the college website,
+the Campus Center will be completed
+next summer. Sorter said that the din»
+ing staff need to be trained for the new
+
+DAVID KENNEDY
+
+dining hall and that it may take some
+time to officially move in.
+
+Phase II ofthc Noyce Science Cen-
+ter construction began in late July. The
+one-story section on the north side of
+the building has been demolished. A
+threatsrory facility will emerge in its
+place and should be ﬁnished in the
+summer of 2007.
+
+Vice President of Baker Electric
+John Layiand said he loves working in
+Grinnell and that the administration
+and students are “very downsto-earth."
+
+The Athletic and Fitness Center,
+under work during much oflast year, is
+completed and open to students. The
+upper ﬂoor has 26 pieces of cardio
+equipment and a stretching mat. The
+lower ﬂoor is dedicated to strength
+training.
+
+Network changes boost security, but crimp file sharing
+
+By DAVID DRISCOLL AND
+
+JONAS PARK .
+
+Vthn students returned to cams
+pus and set up their computers this
+year, they found a signiﬁcantly changed
+Residential Network.
+
+In past yeais, ResNet consisted of
+a single united network throughout all
+of campus and the offrczimpus houses,
+This past summer, however, ITS m,
+vidcd ResNet into twelve smaller nets
+works, organized around dorms.
+
+The new conﬁguration is more
+sophisticated than the old one, which
+was not advanced enough to handle
+problems, according to Evan Case ’06,
+Helpdcsk Technology Consultant Co-
+ordinator. Now more tasks can he an-
+tomated while network monitoring has
+improved.
+
+For example, in case ofa virus, ITS
+can quarantine mlnlﬂlel’wol’ks or “1’
+dividual compiitcrs much faster than
+before.
+
+The new system is based around a
+
+new set of switches installed in each
+dorm and the Clean Access software,
+along with the smaller Local Area Nets
+works (LANs) on campus, Students
+install Clcnn Acccss client software on
+their Windows computer when they
+ﬁrst try to access the internet,
+
+Computers not rui * g Windows
+are not required to run
+the software,
+
+The puiposc of dis
+
+limit broadcast trafﬁc
+to each mini—network,
+which certain network
+activities, including iTuncs and simply
+obtaining an IP address, require. Now,
+each computer can only automatically
+"see" the other computers on its minr
+network.
+
+According to network manager-
+Dave Ellis, this bioutleast traffic was
+causing a traffic jam, and was the rea-
+son for the change. “The network had
+grown to the point that that broadcast
+
+”File-sharing had nothing lo do A
+vi 'ng the network is to with this [network (ha/7995]”
+Network manager Dave Ellis “"0 Yam “E5“ ‘7‘”
+
+traffic was causing delays... [and] to
+prevent those delays. the network was
+divided up. Filetsharing had nothing to
+do with this."
+
+In addition, the Clean Access soft
+ware will he a boon for the network.
+Casc said it requires students to have
+up-mtdutu anti-virus software befoit:
+allownig them
+onto the network.
+similar apt
+proach was tried
+
+that proved to be i
+
+failure and forced
+UCs to go to each dorm to remove v5,
+arises from infected computers.
+
+Last year, Case continued, ITS ivo-
+quired students to bring their comput-
+ers to [TS to have antitvirus software
+installed. This was more successful but
+very resourcetintcnsivc. The new up
+proncli essentially automates last year’s
+successful Operimon.
+
+Avrain Lyon ’06, a former UC, bet
+
+lieves the segmentation of the network
+has broader implications than limiting
+iTunes song sharing.
+
+“People are able to do less. A lot of
+interesting things are coming out that
+use pecittotpeer negotiating."
+
+ITS stands by its decision, howcvcr.
+Ellis said the new system “does not
+change the functionality ofthe network
+we support. it was our effort to guarr
+antee that there no network outages or
+delays {or applications that are critical
+to the function ofthe network."
+
+Lyon disagreed with the decision
+not to announce the changes. “If thc
+way things work changes,"lte said, “that
+needs to be made clear, and ifaddresses
+change, that needs to be made clear.
+and that hasn't happened,”
+
+Nevertheless, both Case and Lyon
+agree that the new system is better,
+hoth trom ITS and rhc students' per—
+spectives. "From a technical perspec-
+tive,” Lyon said, the changes are “a vast
+improvement."
+
+- Network: com-
+
+puters connect-
+ed together
+
+- Switches: devic-
+
+es that connect
+network seg-
+ments
+
+- Clean Access:
+
+mandatory antlt
+virus software
+
+- iTunes: Apple's
+
+musicjukebox.
+which allows
+computers (0
+share music
+
+. Broadcast-
+
+ing: sending a
+
+packet to every
+computer on a
+network
+
+ 
+

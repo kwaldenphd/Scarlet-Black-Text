@@ -1,0 +1,317 @@
+2 September 1983
+
+Scarle
+
+Grinnell: Pioneering Small
+
+ 
+
+by—loe Neri
+
+It is not hard these days to see the effects
+of technology on our everyday lives, In the
+age of technology and iniormatin, the con-is
+puter has no rival ior being the fastest pron
+cessor of information, As society moves in
+to the future, the mode or production is
+becoming the terminal keyboard. As
+business, government, and research in
+stitutions employ a greater amount of
+computers, students will need to learn
+FORTRAN and PASCAL as second
+languages, along with French or Spanish
+
+The computer has come a long way at
+Grinnell College, This fall was the first
+semester that every student was
+automatically assigned a computer ac»
+count but there have been times when few
+students or faculty used the advanced
+technology.
+
+The use of some kind of computer at
+Grinnell began in the mid~sixtles. In 1968
+the college made the commitment to enter
+a Regional Computer Center. The center
+was composed oi small colleges, like Grin-
+nell, that bought computer time from the
+University of iowa computer. The Come
+puter services were located in the bases
+ment of what is now the GTE office
+building in downtown Grinnell.
+
+The location was inconvenient, but bet
+ween 1968 and 1974, faculty and students
+completed projects in statistical data pro
+cessing and in FORTRAN programming.
+Processing was done in a card batch pro
+cess over a link to Iowa City. During this
+time, the computer services staff grew
+irom a part-time director and two other
+assistants to a iull-time director, three
+other assistants and a part»time secretary
+for the services. Throughout this period,
+students worked in positions to augment
+the computer services, much like the user
+consultants oi today.
+
+in 1975, the college made a major com-
+mitment to enhance its computer facilities
+and computer use. The college built new
+housing in Darby Gymnasium for the sen
+vice. The center included housing for the
+computer, a small terminal room, and an
+office tor the small computer services
+staii. The college also bought its iirst in-
+teractive timesharing computer, the PDP
+is made by the Digital corporation.
+
+At the same time, the commitment also
+
+was made to upgrade the computer
+system The college, led by vice President
+Waldo Walker, chose to promote academic
+computing as more important than ad-
+ministrative computing. Most colleges at
+this time were usmg the computer basical-
+ly ior administrative purposes: accoun-
+ting, record keeping, and grade recording.
+The commitment to promote academic
+computing with academic computing posit
+tions was rare [or small colleges.
+
+The facilities installed in '75 were
+designed to last ror many years, but de
+mand increased rapidly and services were
+expanded in 1977. Then, the PDP 45 was
+worn out and replaced with a larger com-
+puter of the same type, the PDP 11/70. At
+first, bath the academic and ad-
+ministrative computing were done on the
+same computer, but in 1978 the college ad~
+tied a second 11/70, The purchase oi the
+11/70 was unusual in its capacity for small
+college academic purposes,
+
+ 
+
+ 
+
+Video Terminal: Link to the network,4
+
+Since 1975, the college has invested in
+upgrading the quality oi hardware and sen
+vice to make computing for students and
+iaculty easier and more eiticient, Today
+the computer services staff consists of 10
+fullrtime employees, including three
+academic program analysts along with
+Prof. Tom Moberg, Director of Academic
+Computing.
+
+As the facilities and staff of the come
+puting services have grown, so has the use
+by both the faculty and students. In the
+early years of computing, 19684974, fewer
+than 75 students and iaculty a year were
+using the computer facilities. By 1931, over
+43 percent of the faculty and 41 percent oi
+the student body were using the computer,
+Use by graduating seniors also increased,
+In 1975, only 17,5 percent oi graduating
+seniors had used the computer in some
+way during their four years in Grinnell. By
+1981, over 84 percent oi graduating seniors
+had been exposed to the computer.
+
+Today Grinnell is even more computer
+oriented. This fall every student has been
+provided with a computer account.
+Workshops teaching basic skills in the use
+oi the computer are open to all students,
+As Grinnell participates in the Sloan Foun»
+dation, its application oi the computer for
+the humanities and social sciences, as well
+as the traditional area of the natural
+sciences is certain to grow,
+
+Prof, Moberg said that the loo percent
+mark of computer literacy by both iaculty
+and students is well within reach, given the
+high interest shown. Moberg said the come
+puting services should be viewed much as
+any of the services that have traditionally
+been employed in academics. Moberg said
+he would like to see “the computer as a
+resource, just as familiar to students as
+the use of the library."
+
+Introducing 'the
+VAX
+
+Kim Lanegran
+
+Over the summer, Grinnell College
+received a new computer to be used by the
+Grinnell laculty, staii, and students. The
+VAx 11/750. made by Digital Equipment
+corporation (DEC). was purchased
+because the college is reaching the limits
+of the capabilities of the PDP 11/705 it now
+uses. There are two PDPs here; one is us-
+ed for academic work while the other is 115'
+ed by the administration, The VAX will
+slowly replacc the PDPs because it can do
+large statistical packages. work with
+FORTRAN which is a language used in
+scientiric programs, and carry much
+larger programs.
+
+Characters Such as letters, numbers,
+commas, etc. are called bytes, when
+speaking of computers. Our PDPs can only
+handle programs with 64,000 bytes. in
+other words, they have 64K memories, The
+VAX has a virtually endless memory
+because it can store billions of bytes in
+each program Since the computer users
+at Grinnell would like to be able to work
+large programs, this will be a great im-
+-rovement,
+
+& Black
+
+College Computing
+
+Microcomputers, such as the Apple and
+Pet, also will have a major role in the
+merger of academics and computers,
+along with the main irame systems, The
+college has over 45 microcomputers which
+are used in the Chemistry, physics,
+Biology, Psychology, Math, and Language
+departments,
+
+Personal computers also will appear in
+the dorm room. Computer Services is try
+ing to make available either phone linkage
+or direct hookup to the main computer ior
+students who have brought their own per-
+sonal computers, The use oi personal com-
+puters in this way also will helpto alleviate
+the growing problem of obtaining a free
+terminal. Computer use at the college has
+grown so fast that the chance of locating a
+tree terminal on any given day is slowly
+becoming a major problem Locating a
+free terminal during midrsems or finals is
+almost impossible.
+
+The personal computer hookups will
+move the college a step closer to the
+Carnegie-Mellon University computer pro-
+gram, which requires all entering students
+to purchase a small computer for their
+four years at the college. Although this
+probably will not be required at Grinnell,
+the college is negotiating with the Digital
+Corporation to enable staff, faculty and
+students to obtain Digital microcomputers
+at a 30 percent discount,
+
+An Apple Micro Computer.
+
+The personal computer linkups could on-
+ly be the beginning of connecting the entire
+campus into one college network and
+possibly into many different networks
+around the country. In the iuture, Moberg
+sees a Grinnell computer network encomr
+passing the entire campus. If terminals
+are installed in dorm lounges students will
+have easy access to a terminal at all times.
+But the network will encompass all college
+functions and locations including: the
+PEG, the library, and the forum. In this
+way, a student will be in communcatlon
+with the entire campus at all times.
+
+Grinnell is considering hooking up with a
+network which will include all ACM cola
+leges. Consequently, a student will be able
+to contact a friend who attends Coe or even
+Carleton
+
+Moberg said he sees endless poss' ties
+for the application of networks for the
+Grinnell College student and faculty
+member, Not only will faculty members be
+able to communicate with colleagues
+across the country, but students in the
+future will be able to talk to their
+computer-age parents. The Grinnell coma
+munity could be tied into the college com-
+puter network and the college network
+could be linked to other networks. Certain~
+ly these are dreams for the future. But one
+ly 15 years ago, man dreamed oi walking
+on the moon.
+
+All Photos by Mike Shanley
+
+“The Computer Should Be a Resource As
+Familiar to Students As the Library"
+
+ 
+
+ 
+
+ 
+
+For usmg the VAX, the college has
+ordered four GIGl terminals which are
+also made by DEC. In addition to being
+able to periorm the function or a regular
+terminal, the GlGls can do color graphics,
+61615 were chosen by the computer staff
+because by staying with DEC. the college
+will be able to improve our facilities as
+DEC produces better computers, These
+GlGls will be tor students to use in the
+library most likely, as soon as the VAX has
+relieved the PDP or some of its load. The
+hope is that they will be in use by second
+semester.
+
+Because Grinnell prides itself on its tine
+computer Capabilities. and ieels that com-
+puters are needed tor a sound education in
+this “computer age", the computer
+department wants to provide the best
+iaciiities tor the students. in order to do
+
+The Vax: The little Dynamo
+
+that, Waldo Walker, Grinnell’s Executive
+Vice-President, and Newton Munson,
+Director of Computer Services, submitted
+a proposal to the Board oi Trustees asking
+for 2.1 million dollars to be used for im-
+proving the computer system, The money
+was alloted just as asked ior. Already,
+$100,000 of this over the next four years has
+gone for the purchase of the VAX and
+$89,000 more was spent on software,
+
+This new computer is in Darby Gymr
+nasium with the PDPS and the computer
+offices. A switch has been ordered that will
+enable users to choose between the VAX
+and the PDP computers. The college and
+Board of Trustees hope that the students
+will make full use of the facilities because
+computer knowledge is essential in today’s
+world.
+
+ 
+

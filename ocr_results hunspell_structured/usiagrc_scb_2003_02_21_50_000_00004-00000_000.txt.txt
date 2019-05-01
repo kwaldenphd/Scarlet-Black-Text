@@ -1,0 +1,230 @@
+ed ed by Katie Mears and Michael Andersen
+emai meals@grl’mlell. will and andersem®gﬁnnell edu
+
+by Leslie Boyadjian
+Staff Writer
+
+it ran be easy to forget that the Internet is a very public world where
+anyone, anywhere can see what anyone else posts. This weekend Grinncl-
+lians were r:m|nd:d ofthe public nature ofthe Net when they found their
+smalled privacy compromised in the webelsed Plans system.
+
+users of the system update their "plan," a sort of online iournsl, with
+whatever material they want to post, and read the plans oforhers with the
+help of an “autoftnget list" of their favorite plans, Last Saturday night
+Daren Brantley ’04 wrote a program that made it possible for students to
+see who had their plans on their autohnger lists. With Brantley’s script,
+users could easily learn. for the first time, who read
+their plan regularly.
+
+When anllcy found the code that did die job
+he posted a link to the hack on his plan went to
+bed. in the morning he met up with Jonathan
+Kenslcr ’04, who runs Plans. H: showed Kcnslcr
+the link, diey laughed and then anrley removed
+the link from his plan. Meanwhile, however, oLher
+studenn had seen and posted the link on their own
+plans, so students continued to use Branley’s pmr
+gram.
+
+As they discovered Biantley's program. some stu.
+dents felt that their privaoy had been invaded and
+that it had created a security problem in the plans
+system. Some students, however, had known for a
+while that such a trick was pmlblHBrantlcy wasn't the first to try to
+treate the program to allow students to view autofinget lists.
+
+“The way most people have been doing it is by hacking into the dams
+base," Brantley explained. “[1] wrote [the piogiaml because a lot oirhose
+people, I think, don't really know their way around a database system, i
+thought it would keep people from logging into the database and at the
+satne time push Jonathan to make the system more secureand it just got
+out ofhand."
+
+Brantley and others emphasized that Plans are not as private or secure
+as some may think and that rho incident is an :xampl: ofiust how public
+plans really are.
+
+“I think that students think the.e's a lot more privacy than there is,"
+said Brantley, “There‘s an idea that your plan only has a primte audienee
+and so looking at a plan of somebody you don't know is kind of like
+reading their diary, sticking your nose in their private life "
+
+paper @ more
+
+For something
+a little
+different
+
+805 Fourth Ave.
+10-6 MrF
+
+MonnThurs. 6 a.m. — 8 p.tii.
+Fri. Earn—69m.
+Sat. 7a.m.r6pm.
+Sun. 10 a.m.—~5p.m.
+
+"I thought it would keep
+people from logging into
+the datebase and at the
+same time push Jonathan
+[Kensler] to make the
+system more secure, and
+itjust got out of hand.”
+—Darerl Brantley ‘04
+
+(641) 236-9229
+9-4 Sat.
+
+919 Broad Street
+Downtown Grinnell
+236-6014
+
+Mmemmmmattainabfeﬂi .8.
+The myth of private life?
+
+A student-programmed tool intended to demonstrate a technical error in the Plans system
+touches off a controversy over the nature of, and right to, privacy on the web
+
+in aetualrry, plans are very much a publie forum, aeressible to anyone
+with an lntetnet connection. Brantley noted that. for example. Plans are
+indexed on Google
+
+Even among users who acknowledged that plans are public, some felt
+that Biantleys discovery was not handled In the best manner. James
+Michael Hill 04 said that Brantley eould have provided students with
+proof that the code existed by allowing students to see who viewed his
+own plan,
+
+“nutofinger lists aren't meant to be viewed by the general public,"
+Michael-Hill said
+
+Mosi users operate under the pretense that whose
+plans they read is a private thing, he said: making
+the link available was "kind ora betrayal of trust."
+
+However, Jaeob Kaufmali»05bom '04 argued
+that Brantley "didn't do anything wrong by writing
+[die codel," aldiough he aeknowledged that “using
+it is probably not sueh a good idea "
+
+Kauimanosborn argued on his plan that pose
+ing die seripr was not inherently wrong. All that
+does, he wrote, is provide “an avenue for someone
+toaeses informationifslhesodesires."Hewent
+on to say that, since Plans are a public system, using
+voluntary file sharing programs like Napster or
+Phyiid is similar to using Enntlcys strips
+
+it is unfairand illogial to blame [Biantltyl and
+useand praise Phynd at thesame time," hesaid. “If
+you're going to say that a program that does a ‘bad‘ thing is wrong make
+sure you say the same about all programs that do ‘bad' things "
+
+John stone, Computer scienee, offered two suggestions for ensuring
+the future seeurity ofthe plans system. one fis, hesatd, would be to set up
+aseparate database server forstoting plans. This way only those who work
+on Plans maintenance would have access to the Plans files, His other sug.
+gestion was to “run the programs that aeetss the Plans database in aspeeid
+‘safe mode” set up to solve seeutiry problems with shared servers.
+
+stone said that he prefers the first option, and Brantley and Mlzhzidr
+Hill seemed to indiiate that a new server would indeed be the solution to
+Plans setutrry pioblems.
+
+it is not expected that the link will be posted again
+
+"I didn't mean for it to be such a big thing," brantley said. “I think
+people need to know the truth and I don't think that they should be fore
+stalled on this preretise ofsccurity and privacy,"
+
+Funding process
+
+Funds, cont. from p. 3
+
+trons could be considered on more even terms.
+
+Thcsc days Osgood reserves his remaining cash foroom»
+pletely “unexpected and unbudgerable" projects like the
+Trinana trip and the cricket broadeast.
+
+Even this new centralization hasn‘t solved every prob.
+lem, Osgood said. in 2000, his ﬁrst full year as president.
+an over-budget Grinncll singers tour of Eastern Europe
+had exhausted his newly-shrunk disereiionary fund in one
+fell swoop. Sinor then, he requires a spceific budget, with
+contact iniormation, rrorn everyone who asks him for
+money.
+
+Tom Beaudm '03, who as SPARC’s bioiness manager
+approved handing for Kirkwood's book of photographs.
+said his experience with that protect led him to a similar
+eontliision,
+
+“After a protect like that goes bad, there is no way to
+rteoiip the money," he said. Future SPARC protects, he
+said, should be rigorously planned and biidgetod before
+any money goes out. so future committees wouldn't be
+obliged to keep investing in a repeatedlyexpanding project.
+
+Even budgetary rigor, though, wont be able to provide
+for every application, Osgood said With a limited set of
+ﬂexible iunds in the colleges huge budget, students look
+ing ior short term financial assistance can only eut costs
+and hope for the best
+
+“Not every good idea is un emergeney," said the prcsir
+dent “There are more good ideas on this aim pus than we
+can fund,"
+
+The tnost important eharaetetistic ofsuccessful grants,
+administrators said, is that thcyeannot be funded by any.
+one else. its proposal stands a shouts of getting funding
+from otlicrsourcs, applicanu may find themselves passed
+around the campus in a game uihseal hot potato,
+
+The best way to estape that cycle. administrators agreed
+is to have a proieet that‘s either academiially useful orsoiiie.
+how important to the mission of the college. it also helps if
+you have preeedenr at your back, either in the form ofa
+longstanding eampus tradition or a longestablished stu
+dent group
+
+ultimately, however, the iunding protess is one otedur
+cared guesswork, And, Langtrutlsaid. that works out fairly
+well.
+
+“There's a point when: you have a high level of trust,"
+he said, “That goes with salfrgoverndnce and having an
+open currieiilum. I think students are worth every penny
+we can put in "
+
+AND TIME YET FOR A HUNDRED INDECISIONS.
+
+AND FOR A HUNDRED VISIONS AND REVISIONS
+~T. S, ELIOT
+
+YOU HAVE UNTIL MONDAY
+
+TO SUBMIT TO THE REVIEW
+
+WRITERS: SEND A DIGITAL COPY OF YOUR WORK TO
+[REVlEWJi POETRY, PROSE. CREATIVE NONFICTION, ETC.
+
+ARTISIS: BRING YOUR WORK TO 1008 HlGH STREET,
+CALL 236-1500, OR SEND THROUGH CAMPUS MAIL
+
+TO BOX Q-7. SLIDES OKAY.
+
+COMMW'T'EE APPLICANTS; GRAB AN APPLICATION FROM
+
+THE MAILROOM.
+
+(PLEASE, NO MORE THAN THREE SUBMISSIONS
+
+IN ANY ONE CATEGORY.)
+
+[REVIEW]
+
+ 
+

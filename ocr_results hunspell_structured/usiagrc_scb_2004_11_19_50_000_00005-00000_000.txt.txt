@@ -1,0 +1,264 @@
+November 19 2004
+
+Facts and 9 es
+
+FRIENnicontraw to popular
+usage, does not necessarily
+refer to any sort of platonic
+
+relationship, or even actually
+
+knowing the other person.
+
+15—The number of Grinnel-
+lians who describe themselve
+as ”conservative” or ”very
+conservative” in their politics
+entry on Facebuok. 372 fewer
+than the number of "liberal” or
+“very liberal" students.
+
+WALL— A spot on each
+person's proﬁle where other
+people can post comments.
+Similar in concept to writing
+graffiti on an actual wall, only
+less real.
+
+FRArElanv/Sonorlm—~A
+category of Groups on Face»
+book. At Grinnell, contains
+such groups as the “Hippie
+Bodybuilders Association" an
+"Cowles Pride."
+
+869, 424, 2667The numr
+
+her of Gn‘nnell students, fe—
+
+males, and males, respectively
+on ratebpok (it is not required
+
+to indicate sex).
+
+—Dl7vid Montgomery
+
+Fla/[So
+
+important terms]
+
+av DAVID MONTGOMERY
+
+On Saturday, Nov 13, some Grinnell students received word that a
+popular website, TheFacebook.com, had been expanded to Griuncll By
+midaftemoon on Monday there were already 439 members of this web
+site, a service where college students post profiles and form links to other
+students.
+
+TheFacebook.com has more than 800,000 members at 256 colleges,
+according to Chris Hughes, who identified himself as confoundcr and
+“press guy" of Faccbook. By any measure, it has already proven wildly pops
+ular at Grinnell.
+
+5
+
+etinntiun 181.81
+
+New online directory provides new online obsession, networking for students
+
+Once a proﬁle has been created, it is fuuy searchable by other students. A
+user can request to be considered a “friend” of another. Iftl-ie request is ap
+proved, then each student gets a link to their friends profile posted on their
+own.Tlic system also displays information such as what students are mutual
+friends of two users. Faccbook can cvcn gcncratc a web page that visually
+displays a student's “social network“ as an organizational chart,
+
+One of the most interesting features of Facebook is the lists of “friends"
+that get compiled. Michael Billups ‘07, whose profile listed as Grinnell stu-
+dents as “friends" on Thursday afternoon, said that many of those were people
+
+he didn’t actually know. “I probably know about 40 of them
+
+Some even worry that Facebook, as the website is
+commonly referred to, can be dangerous because students
+can become obsessed with it. Students were more than
+willing to talk about how much time they spent using
+Facebook. Topher Elderkin ‘08 characterized his new
+habit of checking Facebook as “compulsive.” Other stun
+dents used terms such as “addictive” and “obsessed."
+
+According to Hughes, it's no fault of the website if
+some students spend too much time using it, “If people
+
+“It seems that every
+time I check my mail
+there’s another re-
+quest from someone
+to be confirmed as a
+friend.“
+
+iMichael Bil/ups ‘07
+
+personally," he said. “It seems that every time I check my mail
+there‘s another request from someone to be conﬁrmed as a
+friend." Rejecting a friend request is an option, but to Billups,
+it seemed “kind ofrude." Other students interviewed, howew
+er, had not experienced strangers requesting to be “friends.”
+Grinnell is actually something of a latecomer to Face-
+book, According to the Facebook website, it was created in
+Febuary of this year by Harvard undergrad Mark Zuckcta
+berg. After it proved popular at Harvard, he expanded it to
+
+like the website, then they like it, " he said. “Some people
+really like movies, but that doesn‘t mean movies shouldn't
+be made.”
+
+Facebook, in and of itself, does not offer much that Grinnell students
+did not already have access to. A searchable campus directory has long
+been available on PionechVcb, while the student-tun Plans setvic offered
+customizable proﬁles and the ability to form social networks online.
+
+All it takes to join Facebook is an email address from one of the cola
+lcgcs that the site’s organizers have approved. With an account, students
+post basic information such as their name, dorm room, and home high
+school. Those so inclined can also post “extended info," such as tastes in
+music, movies and hooks oi the student’s relationship status. All entries
+can bc clickcd to bring up a listing of all other Grinnell students who also
+share that interest. Studcnrs can upload pictures ofthcmsclves,and also list
+what classes they are taking.
+
+d
+
+Plan of: plans
+
+Last log lti: Wed November l7rh, 7:32 PM
+Last update: Fri November |9th. 12:00 PM
+Name: The Plant Collective
+
+other Ivy League colleges and then beyond. Many Grinnell
+
+students said that they had found out about the program
+from friends at other colleges who had already become avid users of Face-
+boolt. Those friends at other colleges are also viewable on a student's profile,
+under a special section.
+
+Students on Faccbook can also create and join “groups" that bring together
+people with similar interests. Some popular groups include one for graduates
+pfpublic high schools, organizations for residents of particular campuses or
+dorms, and i group for fans ofJ.l< Rowling’s Harry Potter books.
+
+Some students post many details about themselves on their site. However,
+Facebook also has primcy preferences where a user can chose to restrict who
+can see their information, banning specific pcople or only allowing “friends"
+access,
+
+Students can create a Faccbook account at http://www.thefacebooktoni.
+
+[change of plans]
+
+ 
+
+Glossary
+
+- autoﬁnger list—a user-
+created list of other plans,
+which appear on the list
+after the plan has been
+updated and disappear after
+the user has read the plan
+
+- open source software--
+any software whose source
+code is either in the in the
+public domain, or is copy
+righted and distributed uric
+der an open source license
+(source: www.wikipedia.org)
+- plan—a user’s web-lug
+
+- planloveia link to ans
+other users plan often used
+to communicate affection or
+simply recognition.
+
+- quicklovema list of a
+
+user’s planlove
+-deﬁnitl'0ns by David Archer
+
+Programmers work on [Yellow Tail], which will add features, change Plans behind the screen
+
+EV DAVID ARCHER
+If Plans ain't broke, don't fix it. But whcn it becomes unwieldy to manage
+and improve, then grab the latest programming tools and go to work.
+Accordingly, three determined students have assumed the task of rewriting
+the Plans software with the latest version of the php programming language
+(php 5) in order to update the current software, which they describe as an un-
+maintainable “house ofcards."
+Plans is awebrbascd communityofinditddual wcbrlogs by morn-
+
+The programmers said the system might accommodate “smart" autofrnger
+lists in which users could create lists based on critcria other than user name. For
+txarnplc, a user could create a list of users who have given rhcm plnnlovc. Us-
+crs could also name their lists or create as many lists as they likeThc current
+system now allows users three levels.
+
+Users can also expect to see a spellcheck feature, as well as joint ownership of
+accounts for groups with several leaders. In addition, [Yellow
+
+Tail] may add an address book feature, especially for alumni
+
+bcrs ofcrinnell College, including students, alumni, faculty, staffand
+other directly rclarcd people or groups.
+
+“Ourjob is to create a technical foundation so Plans can go
+anywhere users want to take it," said Avram Lyon ‘06, one ofthc
+
+"Ourjob is to create
+a technical founda»
+tion 50 Plans can
+go anywhere users
+
+who wish to keep in touch.
+
+Other possibilities discussed include extending the
+length ofplans, giving users the option to archive changes,
+and giving users an option to link to previous entries oftheir
+
+thrcc project leader along with josh Rosenbluh ‘05 and Daren
+Brantley ‘05. Lyon said the rewrite will provide better security
+and greater flexibility, making the software easier to maintain
+and modify
+
+They bcgan the project, titled [Yellow Tail] during fall break, and they ins
+tend to complttc Kl‘lc tcwritc in January 2005.
+
+“Current Plans code was developed over yonrs,"Erantlcy said.Thc new ver-
+sion,which will succeed the current Plans v.2, will be a “complete rewrite.”
+
+Most changes will not be visible to Plans users, as the bulk of their work
+focuses on the technical foundation behind the interface. However, the rewrite
+will allow the software to accommodate many new features, several of which
+will likely get implemented some time during spring semester 2005.
+
+want to take it.”
+—Avmm Lyon ‘06
+
+own planaThe programcrs also said the new software will
+allow for customizable style sheets that would give users
+more control over their plan’s appearance and layout.
+
+They also want to make the software more Compatible
+as an openrsoutcc project. ”Because it's open source means we shouldn't code it
+in a way that limits other systems," Lyon said.
+
+The group said they are only responsible for technical changes and making
+new features possible, while the system administrators will decide which fea—
+tutcs to implement. The group is still open to creating other features.
+
+The group titlcd the project [YellowTail] after an Australian wine whose ads
+vettisements they saw plastcrcd around Chicago during fall break. The brackets
+around its title replicate the brackets used to give fellow plan users plan»love.
+
+ 
+

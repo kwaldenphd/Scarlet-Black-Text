@@ -1,0 +1,261 @@
+February 1 2008
+
+Easy steps for easy e-mail
+
+Avoid Outlook Web hassles with a desktop e-mail program
+
+BYDAVID H. MONTGOMERY
+
+Most ofus these dliys receive dozens of e—
+mails per day, a mix ofirnporrnnt, ignornhle and
+spam. It can be a bit overwhelming. And that’s
+why it's so frustrating to me to see someone
+log on to their personal
+computer and fire up
+mailgrinnelledu,
+
+if you happen to
+use both a Windows
+PC and Internet EXT
+plorer, then your mail situation is not too bad.
+That’s because you get access to the Windows-
+and lE-only "premium"web-mnil service that
+includes features like search, rich-text compos-
+ing and n relatively user-friendly layout.
+
+if, on the other hand, you are one of the
+many studenrs who use a Macintosh or Linux
+PC or who use the Safari or Firefox browsers,
+you're stuck with the “Light" interface.
+
+Fortunately, you do have one option (and
+it’s a good one even if you DO use Windows
+und IE.) Desktop email programs take your
+email off the internet and onto your com,
+puter. They have a number of advantages over
+\vebrbaserl mail:
+
+1. Imi'emer/ nor/rye. Modern hnrd drrves
+make the size ofourermail quotes look piriful.
+
+Desktop e mail p ograms
+
+- Apple Muriepp (Mics only): free on
+all Macs
+
+- MozillaThunderbird (Macs, PCs,
+Linux): www.mozilla.eom/thundetbirdl
+
+- Eudora (Macs, Pes): wwwendorn.
+eom
+
+Wanna be a
+columnist?
+
+If your mailbox is full and you have a desktop
+client, you can store move old e—mails en mane
+to your hard drive.
+2, Exfaiidtdﬂulili'er. Using a desktop mail
+program gives you not only the simple but
+vital features rnrssing
+from Outlook “Light"
+like the ability to search
+and write ermails with
+different fonts and text
+colors, but also more
+advanced features like Smart Mailboxes and
+photo-rich layouts for e-mail messages
+3. Mala/ale IIt‘mlmlT. If oyu want [0 check
+your Gr-innell mail and your Ginnrl accounts
+on it Web browser, you have to navigate to two
+separate sites, enter two separate passwords,
+and view the mail separately. With a desktop
+ptogiam, you can funnel multiple accounts
+into the same program, and vrew your Grinneil
+mail and your Ginail and any other accounts
+you might have at the same timeidnd even in
+the same window, rfyou want.
+4.Au/a-u;dnrx‘7g. Mail programs will auto
+matlctllly check for new email it preset inn
+tervris (is often as every 30 seconds) and can
+notify you when you have new messages,
+Choosing a progmrn
+There are two big, free options to choose
+from, For Mac users, the powerful Mailapp
+program comes free on your computers. You
+can frnd it in your Application window under
+“Mail."Tlieie’s also the crossrplatfotni Thunr
+derbird client, made by the same people who
+wrote Firefox. There are differences between
+these two programs and different people have
+their preferences, but in the important, day
+terday areas they're essentially the same. (You
+
+Theres
+
+ 
+
+Kinds-limit. Kimbcvlv
+nv. Rathel
+
+student yublltmom and and» co. ,
+Snider-l Government Assosiillan
+spur, Nimlc c
+
+smart and Blztlt
+
+Dense rnrcv
+
+Avon m be on sum
+
+warm noun.
+
+WMEWMI
+. awn InheoviSPARcl
+. JanuulYQE zoos izzsxs w csr
+2cm me sinner Culley! Weenﬁ ownennewarl
+:Jnnmm Kmhn Gogg Lama Wuiooimu
+Siuﬂeni Publicaiinns and Radio Continuum
+
+Dear SPARC.
+
+m volunteer Digamntlens tin
+Alumni senior Award: 7
+
+Voting Risen S 57 8
+
+main
+a loud
+rum
+
+nominsrrwurtrwuorr Yodly
+
+. Yodly
+R:' MD“! to be on sum
+
+shoytt
+
+From , munitnnmoontrr rum' ammonium .e
+
+ 
+
+ 
+
+mmmlsmcauun- new ammo m-imm minim”, OnJan25 2008 ii \225 m. Sindeml’uniimiionslnu Rnuio
+
+elps‘udemsmllmeltmanvelﬂzusiniu-ma'i
+i
+
+; comminewmle
+
+to spay. iunwnn .1 shun rune.” in run .osounr sooorwrvyov wt m, Mm,“
+
+desirous iusileiusxnaw'
+
+Aim n a mwnllmtﬁ'mn a dollop a—IIiai/ﬁrl‘lm
+r. miml'm' eflmwfils nap/rod to wrbrbmnli-‘ilmil.
+ﬁll liner/m. I/ir easier [:7 tie/m airman/M rmm'l, la
+
+OSX. “Marla/p, " Dork/0]) mnr'lprvgrnrnr bone
+Notit: tie rem/r aru- and [in r/wnr bzilpuwci'r
+ar‘jml Jilin alle 07' itemize-merit mid/m [or
+
+priority. Snap/e imrrl; mm' de/rleﬁrimrcr (a: roe/1n: t/mor willie/x nrrdrmmt rum/mar) malt:
+dell/JP mar/progrnrnr mini [ml/er a; handling Inigo oo/uuu-r oft-mail.
+
+may also like Eudora, a new version of which
+is now in beta.)
+
+Setting up your mailbox
+
+Gill'mell’s lTs provides helpful instruc-
+tions for eonfrgnring Thunderbird on their
+website at www.grinnell.edu/'lts/emnil/tl:ird/r
+These instructions can also be used to set up
+Mailapp or any other program; the important
+information is the server addresses you have to
+enter. Start up your program, create a new ac-
+count, and put in the following information:
+
+Basic Information
+
+Type after-on: lMAl>
+
+Looming Sew . imnp.grinnel.l.edu
+
+Outgoing Marl Sm'wi' (SMTP):
+gtrnneiledu
+
+Advanced Information
+
+smtp.
+
+still time!
+
+papr] by Monday.
+
+in Mnilapp, click the “Advanced" tab of
+your account preferences, in Thunderbird, go
+to Edit > Account Preferences. Check the “Us:
+ssuoprion.
+
+Under “Outgoing Mail" options, be sure
+That you use porr“ss7,"
+
+If you have any problems or questions
+roneerning this, you check ITS’s online help.
+at www.grinnelLedu/its/cmail/tbird, or armail
+me it [.nonrgomzi. Try not to bug Helpdesk
+about it so rheyrvon't get mad at me forgiving
+them more work.
+
+7721': [ﬁlllmﬂ ii 1m! reﬁll/Merl will; Grilmell ITS
+in rmy may, mull/my lbw/M no! be lye/r1 anm‘r
+lib/efizr mull/)ing ind rim inppenr at n rem/t of
+following llzis [alumni adolre. Blame roe/or rim.
+
+Send a sample column with a theme and
+proposals for three more columns to [news—
+
+ 
+
+Have a safe Valentine’s Day —
+stop in for condoms and other
+“safely” supplies!
+
+Planned ParenthoodD
+
+forester law
+
+615 N. 2"“ Ave. W., Newton
+www.ppgi.otg - a.877.Bn.PLAN (1526)
+
+. Peace Corps
+aon Campus!
+
+We go rid
+
+ea 'an
+, ul ll't?
+om ll’i
+
+some nr: “no i
+
+mote.
+
+imputation table
+Rmnﬁeld C ninr lobby
+
+am 5 pm.
+. ,Slldli Show a Minimuﬂon Meeiing
+
+MB 102
+Wednesn‘
+
+lint nrrrrr- inl'on'ilnlltm. «it-1m l'imull,‘ "um
+I! (HwHN—ﬁﬂﬂnmm L m. 1492: Mint M‘It'at'i‘t'itl'wvgm‘
+
+ 
+
+ 
+

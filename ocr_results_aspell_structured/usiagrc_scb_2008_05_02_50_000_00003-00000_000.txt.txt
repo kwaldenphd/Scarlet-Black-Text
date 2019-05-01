@@ -1,0 +1,176 @@
+May 2 2008
+
+e tedbyDav Logan andA An feld
+
+ 
+
+Ly/e'r. [be Lampm pal, ir snuggling in irr/n-rrremnrn ofhuirm: or shown by 2/1: dean/r o/prmonr at 6 pm. (In: Wdizerd/Iy"
+
+AMI FKEEBERG
+
+ 
+
+Pub
+from p. 1
+
+Student Life Sheree Andrews, staffadviser to the Pub Board. “In
+my conversations with the person from the city, they were under
+standing,"she said.“But [the city] wants a monthly report from
+us. as related to people under 21 being allowed in the pub."
+Employees of the pub, such as bartender Jocelyn Newhouse
+
+'08, think that lack ofaxwireness of the quota is a main cause of
+
+the low food sales. “I've talked to a few customers who were like,
+‘If I had known there was a 50 percent food sales ordinance, I
+would spend my money here,"' said Newhouse.
+
+Beyond the concerns of sales ratios, the pub currently faces
+debt issues. “We’re in a deﬁcit,” said Andrews, “The College
+doesn't mm to run a deficit with the pub."
+
+As ofWednesday, Lyle’s was running a deﬁcit “$13,335.69,
+much of which was born in Starlrup costs, according to Combs,
+Combs said that about half of the deﬁcit originated in starteup
+fees, not including stocking food and beverages nor preeopening
+wages.
+
+An overarching issue affecting pub operations and contribut-
+ing to the other problems is communication among the manag-
+
+ers and Pub Board members. “We need to have better commu-
+nication between rhe management staffand the pub committee,"
+said Assistant Manager Drake Ballew ’09.
+
+One instance of miscommunication occurred with the estabe
+lishment of operation hours.To address sales issues mid~semester,
+the pub staff decided to stay open seven days a week as opposed
+to five. However, Pub Board members soon expressed its belief
+that the hours should be reduced, but it took some time to for
+managers to get word and when they did there was a reluctance
+to change the hours, according to Ballew. "I guess they didn't
+want us to be open seven days a week," said Ballew."We got word
+of that sometime in March or early April. We as a management
+staffkind of... put oﬁ‘[the hours change].”
+
+In hopes to address issues of communication, the Pub Board
+has cemented its plans for an institutionalized Board of Direc-
+tors to oversee the ﬁnances and management of Lyle's. “We'll
+basically be responsible for the ﬁnancial aspects of the Pub, to
+make sure it does meet the 50-50 city ordinance,” said Andrews.
+
+The Pub Board formed after the SGA Pub Committee dis-
+
+Pub board takes on a more defined role in management
+
+solved, according to Sinick. “It was over the course of a couple
+weeks as we secured members during the first weeks of the pub
+being open," he said.
+
+But the duties of the Board were not clearly deﬁned. The
+institutionalization of the Board is one attempt to bring a better
+sense of organization and purpose to the relationship of the pub
+management and board, and will actively watch over budgets and
+management, According to the by-laws that institutionalized the
+Board of Directors on April 28, the Board will, among other du-
+tics, “work with the pub manager and sraffro nchieve positive
+ﬁnancial results (breakeeven or better) and ﬁnancial viability."
+
+Meanwhile, Manager Conor McGee ’08 wants to focus on
+what has been going well with the pub, crediting his employees
+with putting on successful events, creating a good atmosphere,
+and keeping the pub code-compliant. “I feel that right now we've
+gorrcn a lot of goals for the semester in fairly good order," he said,
+adding that the ratio and proﬁtability were longer-term goals.
+
+Plans returns after five days with a new server
+
+av DAVlD H. MONTGOMERY
+
+Ian Lunderskov ’08 wanted to ﬁnd some brown shoes to
+borrow for Waltz. Anna McNulty ’06 wanted to check up on
+some of her friends scattered around the country. Ian Athana-
+sakis ’09 wanted to get people’s feedback for a cool idea he had
+for an art project.
+
+All of them, along with hundreds of others, were thwarts
+ed for ﬁve days by an overloaded hard drive in Hawaii which
+crashed on Sunday night and brought down GrinnellPlans.
+com (Plans). Plans is an onllne social network used by Grinnell
+snidents, alumni and faculty for communication and procras-
+tination,
+
+The Plans outage ended late Thursday afternoon, when
+Plans administrator Jonathan Wellons '04 moved Plans to a
+new server in Texas donated by Athanasakis. Wellons used an
+old backup to bring Plans back on line, meaning that Plans
+posts since April 21 could not be recovered.
+
+Before the outage, Plans was hosted on a private server in
+Hawaii owned by Scchyi Laiu '04. Administrators controlled it
+remotely and could usually fix Plans outages quickly by reboot»
+ing the server. When it erashed on Sunday, however, Wellons's
+
+attempts to restart the server failed, and he knew that some-
+thing more serious than usual was wrong.
+
+Wellons first started trying to set up his own server, but
+then Athanasakis offered the use of his own web server, rents
+ed from a professional company. After Lain visited his server
+Wednesday and found that the problem was too severe to ﬁx
+quickly, administrators decided to accept Athanasakls’s ofrer.
+Athanasakis set up the new server and Wellons installed the
+Plans software on Thursday
+
+“[Athanasakis] just went into overdrive," O’Neil said. “He
+got the whole thing set up for us. All we had to do was install
+the software and get it conﬁgured.”
+
+Athanasakis downplayed his donation. “I have the server
+anyway," he said. “Adding Plans won't make it any more expen-
+sive for the time being.”
+
+One beneﬁt ofthe new server should be improved stability,
+because a professional company manages the server. “1 rhink
+it’s very likely that it [will] crash less,” Wellons said,
+
+The current Plans reﬂects the backup that Wellons made
+on April 21, Over the next week, Laiu will try to extract a more
+recent backup from the crashed Hawaii server and send it to
+
+the Plans administrators. Plans users will then, ifall works well,
+be able to access the backup ﬁle for their particular Plan irthey
+want.
+
+Administrators were already working on preparing a new
+server to host Plans. As the magnitude of the problem became
+clear, they “put the pedal to the metal a little more to try to ﬁn-
+ish it," said Plans administrator Eryn O'Neil ’07,
+
+Athenasakis’s server could end up being a longeterm solu-
+tion or a short-term stop-gap, depending on how it handles
+the high demands ofrunning Plans.The increased storage and
+bandwidtll usage could force him to upgrade to a more experts
+sive server, or change to a different company.
+
+The outage helped underscore how much Plans users fre-
+quent the site. Wellons said that he experienced the outage as
+"this empty space in my routine." McNulty agreed.
+
+“1 just can’t believe how much I‘m on there, really,"shc said.
+“That's been thrown into sharp relief over the last few days."
+
+Athanasakls felt the same withdrawal pangs during the five
+day outage. “I'm one of those people that read Plans every hour
+or so," he said. “I realize how strong my addiction is, and that
+[was] my prime motivator for Wanting to get Plans back up."
+
+, Spring Waltz is this weekend!
+
+9 p.m. — 12 a.m.
+Darby Gym
+
+Don’t forget to bring your P—card!
+
+ 
+

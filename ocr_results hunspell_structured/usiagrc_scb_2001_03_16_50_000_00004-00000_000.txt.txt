@@ -1,0 +1,289 @@
+March 16, 2001
+
+Features
+
+Edited by Amanda Davis
+Email: davisain@orinnell.edu
+
+ 
+
+Artists-in—residence and Grinnell
+dancers bring Active Space to life
+
+by Amanda Davis
+Staff W rit e r
+
+When 1 was younger, 1 loved to go to the
+science museum. The dinosaurs were a lug draw,
+but the best thing was the staircase. 'l'hc stairs
+were musical Each and every footfall elicited this
+bell-like tor that sec-med to {all From Space. liven
+better, they were arranged from low notes .tt the
+foot of the staircase to high irotes at the top.
+Running up the starts, as herds of kids did on
+every class ﬁeld trip, caused a rising scale io msll
+up the stairs too. it was magical.
+
+Grinncll dancers and performing artists have
+recently been working with a similar, if much
+more intricate, brand of magic. It’s called Active
+Space and, according to Theatre Technical As.
+sistant Erik sanriitrg, we are one ofprobably half
+a dozen institution: that have technology like it.
+The basic idea is to enable performers on a stage
+to directly affect the sounds and images of the
+stage environment through their movements
+
+The technology consists of three main par i
+input via a video camera. software that proces,
+the input and output in the form ofvideo im»
+ages, synthesized music and lighting eirects. The
+software has three compoirents. The Very Ner.
+vous System (V'NC) anulyras the vldco; it dis-
+tinguishes the speed and location of performers
+movements based on changes in the pixels oi
+the input. The second program, MAX, Corrc'
+latcs the movements interpreted by VNC with
+speciﬁc audio and visual effects, which are pro.
+grammed in beforehand. Finally, the various
+audio and visual signals are sent to the appropri—
+ate sound, video, or lighting systems through a
+MIDI interface to create (h! actual environment
+tal cifccrs: synthesised music, lighting effects, and
+proiected video clips.
+
+in tirett, movements on specific arms ofthe
+sage an be progmmmcd to elicit a speciﬁc quality
+of music when the performers move more Stage
+left mightbe melodic bells and stage right might be
+percussion. Fast movements tan be programmed
+to cause rast lighting diairges, or particularly low
+notes. These eifccts are not a few ofthe possiblli»
+tics.
+
+While 1 initially imagined that such a sys-
+tem would simply result in a cacophony like the
+museum steps. this music is much more inten-
+tional. The music ofActive Space is the creation
+of Christopher Dobtian. a composition and
+computer music professor at University ofcali.
+fornia, Irvine. He is one ofthrce artists-in-resi-
+denec who are here this week. Lisa Naugle, a
+choreographer and assistant professor or dance
+at the ucalrvine. has been working with mem»
+bers ofDancc Troupe to create a piece that will
+be featured in the Dance Troupe’s performances
+April 201]“ Dobrian's music and Naugle's cho-
+
+reography will be accompanied by video roots
+age that was prerecorded by John crawroid, a
+coworker oiNtiugles d Dobii However.
+since ciawrotd couldnr come to crinnoll, John
+J A. Jannone, an assistant professor at Brooklyn
+College's department oftelevision and radio and
+the conservatory of music and the third artist.
+iii—residence. is working on Active Spaces video
+component.
+
+The term “Active space" courts from the idea
+of “activating a space.” says Naugle. The idea
+originated, she said, over the summer of 1992.
+She was attending a conference of artists who
+were interested in explorllig the relationship be-
+tween tethnology and art. It was there that she
+met John Crawford, a software designer who had
+begun to see the possibilities dance could hold
+for furthering the development of technology
+
+Since then, the technology involved in digi—
+tal dance has advanced significantly in addi.
+tion to Active Space, Nairgle is involved in a
+ptoyoct called Motion Capture, in which sen.
+sets are worn on the dancers body winch faeilie
+rate the creation and manipulation ora kind of
+digital body Anotheroneofher projects is called
+TlreAdapt Group The members goal is to pro.
+drrce a kind ofsyirchronous dance performance
+from different locations using the lntcriret.
+
+lust as much as the technological processes.
+Naugle stresses the importance of the emotional
+processcsofthedanctrs usingActiveSpace, one
+ofher goals as a teacher, she said, is to help her
+students feel better about their bodies and their
+presence in the world. and to emphasize that ivc
+humans are not iust passive recelversy but active
+members ofthe world around us. Naugle said
+that being in an environment like Active space
+reinforces the importance ofdancers movements
+and gestures, which also enforces selfesteem.
+The impact of movement on the environment
+tells the dancer “my gesture was meaningrul,"
+Naugle said. She also emphasizes the role ofAc»
+rive Space as a new mode ofcvpression, one that
+affects dancers even as they afrect it, “Technol—
+ogyeoupled with imagination pushes you to new
+levels oresptessivity," she said.
+
+Another emotional effect of using the Arc
+rive Space was noted by Dante Troupe advisot
+Teresa l-lcilaird. She noticed the inhibition the
+dancers experienced in Active Space. Normally,
+she said, improvisation is fairly stressful in this
+Context, though. “itwas more likea toy," Hcilaiid
+said. instead ofwotrying about their movemeno
+and performance, the dancers were able to ex.
+periment un selrcoiisciotialy. lt becomesa much
+motegleehil freeing experience, Heiiand said.
+
+The Dance Troupe rehearsal schedule this
+week has been intense as they try to leztn Nauglc’s
+piece, While the work has been difficult, it has
+
+been a unique experience. “Usually, the mieie
+guides us. Here, we are making the music," said
+l-lalima Hakim ‘02. This has made getting used
+to the process a little difficult Describing their
+rehearsal performances as a kind of costume,
+Emilie Beavers ‘01, said, “We are still putting it
+on ourselves." They look forward to becoming
+more comfortable dancing in Active Space and
+being able to play a little more with the possi.
+bilities Active space holds,
+
+Despite the fact that I've never taken adanea
+
+mm av mum am;
+
+Top: Lisa Naugle works with Shelby Hayhoe
+'04, while Halima Hakim ’02, watches, The
+background was being projected from the
+computers where were John Jannone and
+Christopher Dobn'an working,
+
+Left: Hakim and Emilie Beavers ‘01, dance
+with movement-stimulated video images.
+Above: Naugle, Jannone and Dobtian
+discuss the project behind the computers,
+
+class, 1 was invited by l—teilaiid to participate in
+her modern dance classs workshop in Active
+Space. And the amazuig thing was, despite my
+lack of training, conﬁdence, or coordination 1
+was inspired to move Having the power to cre.
+ate a wave ofsound with a sweep ofmy arm was
+enchanting. For just a little while, I felt like a
+child. My motions and emotions were centered
+around acting and reacting simply to experience
+the possibilities of my surroundings. And the
+possibilities seemed endless.
+
+Scholar speaks on afﬁrmatlve action
+
+by Amanda Davis
+Staff Writer
+
+Professorjenlufer Pierce ofthe University ofMinc
+nesora gave her presentation “Racing for innocence
+Wluteness, Corporate Culture, and the Backlash
+Against Afﬁrmative Action," to a full house on the
+night of February 27 if many more students or pro-
+fessors had tried to attend the presentation, which was
+held in ARH 302. they might noi have found an open
+seat
+
+The interest of both raculty and students was
+piqued by Picrce‘s 20 minute talk, which addressed
+the racial rcrrsiorrs ofemployces iii a large corporate
+law firm and the role ofaffii-mative action in todays
+workplaces The tulc, Pier-ccexplainsd, came from air
+interview with air African—American attorney work-
+ing at a predominantly white firm. According to
+Pierce, the attorney described his white cn-worken as
+“racing" to deny their accountability for the syslcm»
+atic discrimination facing minority members in the
+corporate workplace.
+
+in her inter-views oieorporate attorneys in this pare
+tlcular law ﬁlm, which Pierce called “BC Law Firm,"
+she discovered several disturbing trends ln the relac
+
+tions among employees. The ﬁrm had instituted a court.
+ordered affirmative action program after being sued for
+discrimination. Many or the white employees viewed
+the minority lawyers hired under the program as ”unc
+qualified,"de - he fact tlratsome orthem hadgmdu»
+ated iron. presti ous law schools such at Stanford, Fur-
+thermore. l’iclce said, most orihe attoiireys wlro were
+parirciilarlyciitieal oftlrc minority presence in the ﬁrm
+were wellcestahlixlted lawyers who would irot have been
+in direct competition with airy employees hired as a
+result ofthe afﬁrmative action program
+
+Among the white attorneys, Pierce also found wide
+spread negativity regarding the personalities ofthe Aft
+ricau American lawy s lhe minority attorneys were
+seeir .ts “"deirianding, abrasive and is having cashed
+in" on the employment opportunities mandated under
+arlitiriativc action. The same lawyer who coined the
+phiase "racing for innocence” also described his co.
+workers as actiirg extremely defensive whenever he tonc
+fronted them about their behavior
+
+In the lengthy question and answersession.students
+and facultycxplorcd the idea of”rnclng for innocence."
+soareqiiestioired thelegitimacyofthe“innocence," pro.
+posing that it was drlven by more than simple oblivi.
+
+ousiress, and possibly by a very educated and racist
+agenda, Pierce also observed that while members of
+previous generations may have been described as
+openly and clearly racist, the present generation has
+given rise to a more coded, and covertly hostile envic
+rorrment,
+
+pierce also noted that she has seen the backlash
+against affirmative action grow stronger in recent years.
+She expressed concern over how perceptions regard.
+ing affirmative action can be changed in a climate
+where incidents ofprejtidice are often seen as isol ited,
+rather than as ongoing racism
+
+The talk was, both in terms ofattendarrce and feedc
+back, highly sutc sful. “it was a fantastic turnout,"
+said Susan Ferguson, .osociate professor orsotiology,
+who encouraged professors to make announcements
+iii theitclasses regarding the talk, While many profes-
+sors invited their classes to attend rew were required
+it. Ferguson attributes the topics popularity to its pei.
+vasiveness in many areas, including sociology, Americ
+can studies, and Africans studies. Pictce's presenta—
+tion was part ofthe Sociology Roberts Lectures and
+was sponsored jointly by the sociology department
+and the Wilson program.
+
+Jennifer
+Pierce
+
+0 She received her BA,
+MA. and Ph.D. in
+sociology from the
+University oftelirornia,
+Berkeley
+
+I She is an associate
+professor of American
+Studies at University or
+Minnesota
+
+0 She is the Director of
+graduate studies in
+Departmentof American
+Studies at the U. of M.
+' She wrote the book
+Gender Trials: Emotional
+lives in Contemporary
+Law Firms
+
+ 
+

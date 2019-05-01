@@ -1,0 +1,325 @@
+lance company arrives
+
+Tile agility of Gregg Lilenhery and the camera oi Paul Milkie
+combine for an unusual effects Lizenbery and other members oi
+Seattle's Bill Evans Dance Company will be in residence at Grinnell
+from November, 6 to H. During that time memberswill conduct
+
+several classes and workshops.
+
+tcoiitiniicrl ii-oin page i)
+
+believes ”ii fair job oi keeping
+waste toa minimum" is being done
+she would like to have new curtains
+which would save energy and
+would like to install windows which
+could be opened to control the
+temperature, '
+
+ln Burling, Assistant Librarian
+Steve Pandolfo is “not sure we
+have any waste because the
+heating and air conditioning
+systems aren't poweriul enough to
+do the job they are supposed to,"
+The present cooling system is
+around 20 years old and “tends to
+break down a lot.” The cost of an
+improved or new system ranges
+from $25,000 to $133,000.
+
+with respect to the gigantic
+library windows, Pandolfo says, “I
+don’t think the wlndoWS are very
+energy ellicient" Although they
+are double panes, the way they
+were installed makes their in»
+sulation value ”negligible."
+However Pandolio wants to keep
+the architectural integrity oi the
+building intact no matter what and
+opposes possible “architectural
+abortion.”
+
+Energy waste resulting from
+building deficiencies, poor ven»
+tilation. lack of proper insulation.
+unnecessary use of lights and
+
+The scarlet & Black, Novl :i. limit—page a
+
+Is Grinnell wasting away?
+
+and
+to
+
+mallunctioning heating
+lcooling systems continues
+plague the college.
+
+THE DURM renovations Lind
+bmlding alterations will eliminate
+isome oi the waste and save money,
+iNew windows should cut down on
+icostly leaks and an additional
+layer 01 insulation in the mills of
+‘ renovated dorms should reduce
+waste also Heating systems have
+‘been improved and more systems
+will be similar to the forced air
+systems iound in Norris Hall
+
+viceProvost Ken Browning also
+mentions that several "quick fix"
+measures have been implemented
+in campus stmctures to conserve
+energy: thermostats have been set
+back and are turned way down
+during vacations and lower
+wattage light bulbs are now being
+used.
+
+The school uses both natural gas
+and oil supplied by lowa Southern
+Utilities to heat and cool campus
+buildings, Because Grinnell is a
+low priority consumer the natural
+gas supply is controlled by the
+util' 'es company. “We are at their
+mercy,” states Gerald Arment.
+manager of mechanical equipment
+
+at the physical plant. “They decide .
+
+ 
+
+whedier we burn gas or oil.”
+HOW MUCH DOES this waste
+
+ 
+
+ 
+
+(3051.7 It is hard to assess the
+
+:amount oi money that could be
+
+saved if waste of heating fuel and
+electricity were minimized.
+Browning hopes to be able to look
+into this matter later this year by
+studying the energy savings in
+renovated buildings. "One of the
+biggest problems With waste is
+knowing how much energy is used
+in each place. Metering is hard to
+come by in terms oi accurate in-
+ioi~mation," he says.
+
+Browning and Walker both cite
+an overall laxness in energy
+concerns over the past iew years
+“We have clearly slipped away
+irom the attitude we had when
+energy was in short supply,"
+Walker admits. According to
+Walker a committee under
+Browning's lead will do basic
+research to find where major
+energy losses are occurring.
+
+Although solutions to the
+i problems oi waste are being iound
+,and implemented, obviously much
+waste remains on the Grinnell
+campus Browning states, “It is a
+lmoral arid iinancial issue,” and
+Walker comments, “We need to get
+back on the tack as far as energy is
+concerned , . . the cost of higher
+education is going to pay- for
+energy bills."
+
+Computer addicts gather in Darby to do battle
+
+by JeanetteMulcahy
+Consider the iollowing ﬁgure:
+:koilkikht
+* 2i<
+”i 1K
+>i< XI
+>i<>i<>ii>i<>i<>i<3kri<Xd<et<ri<3i<
+it Cit h“ >i<
+>l< , i 1* *
+>i< >i< >K 5k
+il<>if>kt<h¥iklt<>ﬂ>ihl<i<>i<¥r
+i< >i<
+>i< tk .
+»i< ‘Il<
+>H( i< ’H‘.
+
+Write a program which prints all
+arrangements of live ol‘ the digits
+H), one digit per box such that no
+two consecutive digits are in ad-
+jacent squares.
+
+Can you answer that question”! It
+you can. then you should join Bruce
+Albrecht, Newton White, Scott
+Porter and Steve McKelvey in
+trying your hand at computer
+pmgramming.
+
+On Saturday, October 28, start
+ing at 10:15 am. the prideVof
+Grinnell’s computer center took-on
+19 other schools from the Midwest
+to compete in the iiith annual ACM
+North Central Regional Scholastic
+Programming Contest. Ap-
+proximately four to six people
+from each school gathered in
+Darby Gymnasium to duke it out
+on the PDP llr70,
+
+THE ATMOSPHERE was tense.
+Eighty people huddled in groups at
+tour around computer terminals,
+typing as iast as they could It
+looked somewhat like a secretarial
+pool, except the participants
+seemed like they would he more
+comfortable at an MIT study break
+than at a Kellv girl coffee break.
+
+Some people may express horrox
+at the thought of a whole room lul of
+computer addicts. As Newton
+White says, computer jocks are
+commonly stereotyped as having
+“white socks, high water pants,
+short hair, buck teeth and
+glasses.” However, he adds, ”Most
+people fall somewhat short of this
+ideaablessedly.”
+
+ 
+
+You may ask, how does one win
+at something - like this? The
+
+scoring, 1 am» told. is easy. First oi
+
+all. there are four questions to
+answer which were made up by
+John Vogel and Henry Walker
+from Grinnell and Ken Magle from
+University of Missourerolla,
+
+TO ANSWER one of these
+questions the team programs the
+
+~computer in a non-judgedru
+
+Then, if they think that their
+program is correct, they submit it
+as a judged run For each non»
+judged run the team receives ten
+points and 25 points ior each
+judged run.
+
+The time it takes to answer one
+
+scores are added together. The
+object of the contest is to answer
+the most questions in the least time
+with the least amount oi points.
+ON THE SECOND problem, for
+instance. Washington Univeisity
+got off to a last start, iinishing at
+10:58 am. Grinnell finished at
+11230, 75 minutes after the starting
+time, They had two non-judged
+
+Loose Hall Ball
+
+Theme:Proliibition Blues
+Featuring: The Real liids
+
+Saturday, November 4
+9:00 P.M.— 1:00 A.M.
+
+B-Y-0--Mixe1.‘sac¥14. C‘FP? Petriﬁed
+
+ago}
+
+I“
+
+question is subtracted irom the:
+,startingtime and these three point
+
+This intrepid team 0! ‘ computer
+
+programmers , works on a
+
+stiekler at the sin annual ACM North Central Regional programming
+Contest (Photo by Karl Duksteinl)
+
+runs (20 points) and one judged run
+
+7 125) for a total of 120 points.
+Whewl Sound complicated?
+Well. it isn’t exactly a spectator
+sport. but everyone there seemed
+to be enjoying what they were
+doing. The Grinnell team did very
+well; it came in second only to
+
+Washington University Third
+place went to die University oi
+Nebraska-Lincoln. and fourth to
+Drake University.
+
+THE FlRST and second place
+teams Will go to me nanonai
+contest to be held in Dayton, Ohio,
+sometime in February
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUN.—WED.0NLY,'Il-5-a
+EACH NIGHT AT7:30 ONLY
+SUN. MATINEE Aszo
+
+”Paul Malursky Is a rare and exemplary klnd of
+dlrector and ‘An Unmarried Woman' is an even
+rarer ﬁlm. llll Clayhurgh glves the ﬁlm its /
+centrifugal lorce...wltl| a multilevel pedommnce
+0! amazing velodty, beauty and guts."
+
+Rex Reed. Syndicated Columnist
+
+m. c...“ l-u‘mam
+
+PAUL MAZURSKY’S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,805 @@
+4 ScarletStBlack Fnda Septem or 13 1996
+
+Technicolor Penguins
+Can’t Complain, Eating...
+
+other notes boards with topics
+
+keyboard will be in italics.
+
+ence Mall. type
+
+ 
+
+type write and hit <enter>. Iii
+
+topic you have created.
+
+computer
+b y t e '
+
+By SCOTT ANDERSON
+
+VAX Notes ls a place where people can discuss different
+topics that interest them. For example, there is a board called
+Rants where you can blow off steam by complaining, An»
+olhcrpopularboard is SGA where, last year, students veiced
+their complaints about the dining halls. There are many
+
+ranging from sex to com-
+
+puter question forums to explore.
+On a technical note, all commands foryou [0 type into the
+
+To get Notes started type notes at the VAX prompt. The
+only conference that should be available is sample confer-
+ence; this isn‘t a very interesting conference, so add one
+that is: Conference Mail, This has a listing of all the major
+public conferences available at Grinnell. To add Confer-
+
+ADD ENTRY DISK“i[FUBLIC[CONFERENCLMALLNOTE
+Now type open [Unflo open the Conference Mali. You
+don't need to type in the entire name of the conference to
+opcn it. Conrcrcncc Mall allows you to add any publically
+available conference to your list of notes boards, to get a
+list of Ihcse conferences type din Now you see a confer»
+cncc that looks interesting like the SGA notes board. To
+add it to your listing of notes boards, type the topic numr
+her on the left across from SOA, 39. Next a screen will
+come up explaining the purpose of the SGA board; if you
+want to add it to your list of boards, type select. and hit
+
+<enter>.
+
+The SGA board has
+now been added to your
+list of notes boards, so
+type exit to get out of
+Conference Mall. Type
+0p :ga to open the SGA
+board. To open topic 3
+called “Dining Hall",
+type 3 and hit enter. You
+can go to any note within
+topic 3 by typing the 3,
+period, and the number
+
+of the note, to go to note 28, type 3.28.
+
+When you find a note to which you want to respond, per
+haps you want to disagree wtth someonc's comments about
+the food at Cowles. type reply and hit <enter>. After type
+ing in your message, to exit the text editor hit <Clrl-Z>.
+To add a file like “foodtxt” from your account into your
+reply typc replyfoodjxl, If you want to create a new topic.
+
+the text editor write about
+
+the topic you want to discuss and then hit <Ctrl-Z> to exit.
+Next you will be asked for a title for your note,
+choose carefully because this will be the title for the new
+
+ 
+
+ 
+
+ 
+
+ 
+
+By ERIN PETERSON
+
+If there Is one thing that Grinnclllans
+like to talk about, it is food. Fortu—
+nately, the recent changes in the din-
+ing hall give ample opportunity to ex-
+pound on the subject.
+
+The noticeablc lack of cycle menus
+forces one to generalize, however,
+(Apparently, food Services works un—
+der the theory that what we don’t know
+can’t hurt us.) Still, I feel that it is my
+duty as a foodreating member of
+Grinnell society to say rude and im»
+pertinent things about the changes. It
+took a year's worth ofwhining, but we
+
+finally got that mysterious yet subr
+lime Character known as Dave
+McConnell to surge into action from
+a previous state of ennui. (Or would
+that be Enya?)
+
+I must admit, the changes have
+caused some problems. For the first
+lime, it is notjust firstryears who stare
+humbly at the array of food items in
+line in a confused manner. Under the
+banner of self-service, we have dis-
+covered that we have the collective
+decisionrmaklng power oftubc socks
+(and not the striped kind, either),
+
+Ycars before, I would just Clank a
+few plates onto my tray, determine
+after three bites that I hated all of it,
+and then abandon it for a bowl of
+cocoa puffs, now I freeze up when-
+ever I go through the line, hoping that
+the ﬂicker of panic that crosses my
+fact: is not obvious. ‘Carrots or broc—
+coli?’ I think to myself, terrified that
+I will choose incorrectly and be
+sucked into an alternate reality. In»
+eVltably, I take both, eat three bites
+
+of each, and then move on to Golden
+Grahams.
+
+During my brief 97-minute wait for
+lunch one day last week. I was able to
+check my c-mail (twice), do a load of
+laundry. and peel the lamination off
+of my ID card. By the time I had actu-
+ally entered the mystical double doors.
+I tended to agree with the thoughtful
+comment cards such as “We need a
+heroin bar" and “Please allow us to
+strangle all line-cutters,"These people
+erribody all the spirit and enthusiasm
+essential to the Grinnell experience.
+An aside to the valiant and courageous
+members of the dining hall Commit
+tee who so nobly proclaimed: ”Give
+me selfrsurvc or give me dcath!": the
+two are roughly equivalent.
+
+This is not to say, of course, that
+nothing good came out of the dining
+hall's extensive overhaul. For return-
+ing students, the changes were noth—
+ing short of miraculous.
+
+'Anyone who saw the student staff
+skits will concur; a halfdozen students
+
+from the Lnngan/Rawson/Gates staff
+bounded across the Harris stage with
+Baryshnikov-like agility, apparently in
+a celebratory dance to honor the new
+Juice machines. i know that personally,
+when I talk to graduates of Grinnell, the
+first thing I tell them is not about the
+extensive changes made on the Fine
+Arts and Science buildings. but about
+the fact that we have a deli bar every
+day.
+
+Indeed, thanks to the alert and ever-
+watchful presence of the sack lunch
+ovcrsccrs,,l can now stock my lunches
+With 57 points worth of food, rather than
+the usual 15. And. since Sheila has not
+yet taken to strip searching all exiting
+diners, a few people (though I know
+none personally) have left Cowles and
+Quad with fruit hidden in strategic (and
+usually inappropriate) places.
+
+But I digress. It’s almost time for
+lunch, and I can hardly wait to see if
+tofu pudding is being served. because,
+as we all know, different is better. And
+ignorance is bliss.
+
+ 
+
+By KURT ORZECK
+
+Here I sit, waiting for the first oftwo
+drying cycles to complete in the laun-
+dry room behind me. It’s Saturday the
+7th and the basement of Main could
+not be any more refreshingly cool,
+
+I don't always feel like I‘m in a
+sauna, My classes (especially my tu»
+torial in the partiallyrrefurbished sci-
+ence building) are quite cool, in fact.
+They tend to break up the muggy day
+with an hour or so of coolness. Nev-
+ertheless, the rest of the day feels like
+the heat is crawling into every crevtce
+of my body, exposed or not. Thcrc,
+the warmness dwells until my body
+squeals in uncolnfort and and itching
+desire to find a lake and dive in.
+
+Even this morning brought the
+steamincss that has become ever-so-
+
+ 
+
+familiar around here. I lugged a box
+over to the post office Jusl shy of
+eleven-thirty. Along the way, 1 cast
+an occasional glare up at the sun and
+swore under my breath,
+
+On my way back, I looked around
+the town of Grinnell. It had yet to
+wake, save an occasional pick-up
+truck or a strolling couple. For the
+first time. I regretted not having
+brought a bike with me to school.
+
+Before I came to Grinnell two
+weeks ago, the image I had in mind
+was one of a spacious, laid-out
+school, [expected cornfields galore,
+visible from any given positron. I
+still have the inner desire to spend a
+night in a cornfield, or at least tour
+one for an afternoon, even in light of
+the blistering heat.
+
+Come to think ofil, I haven‘t even
+
+- Some Can’t Take the
+
+mentioned the hottest place to be on
+campus over the past week. The din-
+ing halls, you say? Nope. The locker
+room saunas? Not even close. For.
+those of you who experienced what I
+did, you probably know whatI‘m talk.
+ing about - the dazzling yet boiling
+Herbie Hancock Show on Thursday,
+As I walked into the gym that night, I
+knew I was in trouble when my clothes
+immediately stuck onto my skin, as if
+I had been turned into a magnet for
+fabric.
+
+At night, the heat can be seen line
+gcring in the air over the ground in a
+thick mist, as if it were a white blan-
+ket tucking in the campus grounds for
+the evening.
+
+As of today, we haven’t been
+touched by rain. No help from the sky
+to wash away some of this heat.
+
+Heat
+
+From what it appears, we‘ll be stuck
+with this weather for a bit longer. I wish
+the fall would arrive. It's always been
+my favorite season. I'm not sure if it’s
+because of the colored leaves falling to
+the ground like globs of paint layering
+an ease], or if it’s the crispness that
+comes with each autumn, like a reward
+for surviving the blistering summer.
+
+Maybe it’s because a new school year
+begins, a chance to start anew. 0r
+maybcit’s simply because my birthday
+lies in September.
+
+Well, it’s time to check on my laun-
+dry now. Pretty soon, I‘ll be leaving
+this cool-temperatured room and will
+reunite with the rest ofthe campus. And
+what a sizzling campus it is. Neverthe
+less. soon enough the fall will arrive.
+
+h I like the Sound of that.
+
+ 
+
+Sunday_
+
+KDlC8‘8‘.5FM - Programming Schedule Fall ‘96
+
+Thursday
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Fnday
+
+Saturday
+
+ 
+
+740' SaranAbl, & Megan
+Wain in U.N,I.T.Y
+
+Women 's rvrsdom
+
+7710: NatulreK Frees:
+
+“Gone Country”
+
+Only 90‘s Best Country
+
+7—10 Cl and Drew 7710:
+Josiah’s Hour
+
+Chnstlan
+
+Welcome to the Club
+
+Joanna Church
+
+Big Band and Swing
+
+7,10; Laura Tanz and Mariana Elder
+
+Under the Inﬂuence
+
+70'slearly ms Funky Soul
+
+7.10: Paul Spencer
+
+Stutt‘
+
+ludic/Ahernalivdkock
+
+7-10: Gina at Crystal
+
+Womyn‘s Forum
+
+ 
+
+lOrlZ Ashley Greene
+
+Ursula Holland ’5 Opus
+
+IOVIZ. Product I9 and Special K
+The Legacy ot Neil Young
+
+Eolupna on Wands: Bread wlthlVounE a t.
+
+1042 Derek Brown
+NRK P3
+
+call: New Rock (College/Indie/clc.)
+
+1042:
+
+Off The Beaten ﬂack
+
+1C and lhc Chogster
+
+Fairly Contemporary
+
+[0- 12 Scotr Anderson 84 Sarah Eagan
+
+SQC Punk/Alternative
+
+10-12: Nat Rosl
+Lite is a Song
+
+Punk/Old Altemntive
+
+Follr/Roclr/Country/show/Cornmcnrary
+
+Womyn's Voices
+
+ 
+
+107 l 2: Jenna
+
+Southern Comfort
+
+ 
+
+Classic Rhythm and Blues
+
+ 
+
+l2-2: Ellrs Baggs at Bryan Rehar
+
+Accessible Jazz
+
+[271. Nnte Kemperman
+
+“Give the Fiddler a Dram”
+
+Oldrllme srrrrrg band Music & variety
+
+Karlrti Manson erI:
+Sing Out, Louise!
+
+Showtunes
+
+Matt and Roll Peterson
+Brotherly Love
+
+Alternative Cool Stuff
+
+Leafer
+
+Merry-Go—Round
+
+12-1:
+Folk Uprising
+
+Rock Mix as Requests
+
+Becky, Annie, Alice, Katie
+
+Folk and Uprising
+
+“Southern Music"
+
+ 
+
+lzrz- LW
+
+ 
+
+ 
+
+Jocelyn and Erin
+
+Sknnk It Upl
+
+l.2 Sarah Fowles ,
+
+We Won‘t Shut Up
+
+non-mainstream wontyn
+
+l-2 The kcymnsrcr'tt TheGalzkcupCr l-2
+Kriss Kross to Chris Cross
+
+Variety
+
+GLAM-The 12 Step Program
+
+Professor Tepid
+
+Glam Rock
+
+Ted Bradford
+
+Have 3 Lucky Day
+
+172; leremy Sheelcy
+
+Variety, World, Poetry
+
+Venice Shoreline Jeremy
+
+your favorite band sucks
+
+a roralrrurrun selection or music .
+everyone should listen to
+
+ 
+
+music 24: Jeremy Wurmfeld‘ IeffVerthein
+
+ 
+
+ 
+
+u. Coramn y Alma
+
+Ritmos del Alma
+
+Brendan Healy
+
+God Passe Reminiscent
+
+Small NW‘ nllcmntivc, 60‘s and 70':
+
+Matt Hutchison 273-
+Slave to the Bean
+
+Funk. Disco, and Jazz
+
+MC Lickem and Pcr
+I am Your Ho
+
+Things That Are Cool
+
+Adam Salzrnan
+
+"The Long and Winding Road"
+
+Beatles
+
+Colin “Goo»Tre" Guthrie
+From Hip to Hop
+
+Rap Fusron'l
+
+Sweet Soul Music
+
+Soul and Funk
+
+ 
+
+ 
+
+World-wide Latin Music
+
+ 
+
+617: Adam erlzlcld and DJ Jazzy Norm
+CHOOSE YOUR FATE
+
+ChIl-ln/Pcrronnnncc Reading
+
+3-4 106 and Bernie
+Moonstonrp Hour
+
+lst. 2nd, 3rd wave
+
+Mrkc Fogarty
+m and Order
+
+Ska
+
+Bryan and Dan
+The SKA Pulpit
+
+Ska, SkarPunk, Mod
+
+Katix and Ruchrrlc
+
+senior plow no es macho
+
+34: Andrew Eltenhofer
+Free Form
+
+music to cop a feel to
+
+Everything
+
+4,5, Geoffrey Sparks
+
+The Appeal or Downsizing
+
+ExpenmentaJ/Punk
+
+ 
+
+ 
+
+Aldon Hoot
+Beside Life Comedy
+Comedy
+Katie httl3rr
+Rhythm Roots
+
+luv and Blues
+
+4-6 Emily Andrews
+
+como el sol nspanta e1 trio
+
+rvorlrlhnzz/larin ynzz
+
+Brand“ and Jllanclo
+Calientel
+
+Sprrnrsh Mrrsrc
+
+East European Music
+
+Eleanor skinner
+
+| play ritusrc rt people want to
+request snug: they can
+
+Klrno 64 Maria
+La Mancerina
+
+Muslca de los Americas y Hawaii
+
+46. Daniel luhona and Mike Campbell
+Tao Gun He Dlanli Yin Yue
+
+Chinese Popular Music
+
+6rd Beth and Sarah
+
+Traveling Pig William
+
+ 
+
+6-8: Jeff Venliein
+
+It‘s a Good Day For The Blues
+
+B
+
+Mmr Ryan & Corey or,
+(classified)
+
+lucs sirrr. Sp). Gnrngc Rock
+
+Noah Grand & Mnnsrr Pc|ritz
+
+City or Hope
+
+Charlie Clnrk
+
+Brother Love Joy
+
+6rd: Theo Bolt
+
+Bob’s on Air
+
+Altcmaltvc , ,
+Eclectic Varlct
+
+Voices from the Underground;
+
+and Drscussron
+
+Songs You Grew Up with
+
+ 
+
+8-10 Marcus [is Josh Firstyeat
+
+ 
+
+ 
+
+The .102 Show
+
+Musrc with u Big Mouth
+
+b-lo: Eric Fischer
+
+Liberty and SKA for all
+
+Laura Chavanolhal 840
+Holy Cow
+
+Ska liidcpcrluanl, etc,
+
+Rough that Suspect/MRR
+
+Prrul Court “it
+
+Music with Energy
+
+Yolanda 84 Shancetn
+
+Queens ofDancehall
+
+8-10
+
+“It’s All Good”
+Caribbean Music
+
+Jonathan 5‘ Meredith
+
+All/Metal/lnduslrinl
+
+Island Hopping
+
+rany Musrc rrorn the Isles
+
+ 
+
+10-12: D! Johnny Fever, Venus. and
+Les Nesrnair
+
+ 
+
+ 
+
+Siollu
+
+Volume
+
+ 
+
+music (777
+
+lo-lz, Kevin Ronncn
+
+Mnod Swing
+
+Variety
+
+Ron Coopcr
+The Live Show
+
+LIVE Music
+
+lUrl’l
+
+Liquid Formulated Undergmvrtlr
+
+Elmorlle Scmgglns. izn kndntr
+
+Boullahinlt Sounds
+
+Ben Coaklcy
+Trash Radio
+
+SurfrPunkrlhdierTrashrlazeropJ‘
+
+10712 Lunglle Twalo
+
+TBA
+
+Adequate Size
+
+Thrcc Insane Asylum escapees
+listening ro music
+
+ 
+
+ 
+
+ 
+
+Kevin McGoldrick
+
+The Vervic Dose
+
+Modern Bntrsh/Arncrrcan lttdie Rock
+
+Andrew I“
+
+Muzak and Noise
+
+luduslnul
+
+ 
+
+ 
+
+DJCttsKMlxntnslt‘rClarmemc 12-2
+
+Bringin‘ da Ruckus
+
+Rap
+
+ 
+
+Mu‘l'rr
+
+Ambient Temple of the Dogg
+
+Ambient, Trance. Somblent, Ethereal
+
+124: Curious George
+
+ 
+
+‘in
+
+Our House, with Curious George
+
+Duncc/l-louse/Tmncc
+
+Astrid Roll
+Crazy Zoo
+
+Eclectic
+
+ 
+
+ 
+
+ 
+
+ 
+

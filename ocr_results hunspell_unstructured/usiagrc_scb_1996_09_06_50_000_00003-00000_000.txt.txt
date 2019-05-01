@@ -1,0 +1,466 @@
+Scarlet & Black - Frida September 6, 1996
+
+GA
+
+By RUPIN THAKKAR
+SGA President
+
+I would like to welcome you back
+to campus and lo the new Student
+Government Association column.
+Over recent years, many have
+questioned the power that the stu-
+dent body and SGA have on our
+campus.
+
+Students asked if self»govemrince
+was anything more than a buzz-
+word to toss in the college admis»
+sions literature. Now. however,
+SGA is coming offa very success»
+ful year of gathering and respond»
+ing to student concerns. By help»
+ing the administration recognize
+weaknesses in certain facilities and
+services, SGA facilitated upgrades
+in campus safety, Harris Center fa-
+cilities. and Dining Services. We
+have seen that SGA can indeed be
+a powerful institution on this cam»
+pus.
+
+We begin this school year know»
+ing that meeting high goals means
+building on the progress made last
+year. By returning to campus eaily
+for the ﬁrst ever Cabinet training.
+the new Cabinet has begun to en~
+sure this progress. Before the year
+began we had already become a
+strong teamwdetermined many of
+
+ 
+
+our goals, and met with many ad-
+ministrators to ensure open commit»
+nieanon throughout the year.
+
+The Cabinet has also discussed a
+variety of methods in which SGA
+can strengthen communication with
+the student body. The newly»
+formed Publicity Committee will
+carry out many of these rcsponsi»
+bilities while continually generating
+new ideas on how to better promote
+SGA We are very excited about this
+column which will provide updates
+about the issues being discussed in
+Joint Board as well as more details
+about each oflhe positions and com»
+mittees that make up SGA, We Will
+continue to update the bulletin board
+in the post office, and we are creat-
+ing a World Wide Web page. You
+will be asked for feedback through
+phone polls and, ofcourse, by your
+Senators.
+
+Finally, we are enthusiastic about
+the newest addition to the Cabinet.
+the Student Group Liaison/ Public-
+ity Coordinator. In addition to
+working with existing organizations
+and assisting students establishing
+new groups, she will also chair
+Common Ground, a new commit»
+tee dedicated to strengthening com-
+munication between related organi-
+zations and encouinging collabora»
+
+“Ont
+
+On Tuesday ‘eptember 10, clec»
+tioits for thc inst semester Scnalois
+Will be held. While the Cabinet sets
+the direction and tone for SGA, it
+is the Senators aild committee tnem»
+bcrs who make the ultimate deci»
+sions on issues.
+
+The new stiucluie of the Joint
+Board implemented last year allows
+Senators to focus on gathering your
+concerns and feedback to cast edu-
+catcd votes, rather than simply rc-
+cording minutcs and acting as a rub»
+ber stamp.
+
+Further, the Senators will play a
+more active role in the Hall Couns
+cils this year with the addition of a
+scheduled time at each meeting to
+discuss the Joint Board minutes and
+agendas. If you are interested iti
+soliciting concerns. proposing so»
+lutions, and communicating
+progress, we urge you to run for this
+pOSIllOn.
+
+Please stop by the SGA offices in
+the basement ol‘the Forum Will] ally
+questions or comments, or simply
+to introduce yoursclt’. with your
+input and involvement we will cons
+tiiiuc to accomplish many goals and
+make improvements on our campus.
+
+Rupin Thakkar
+SGA President
+
+ 
+
+ 
+
+Dreams Made Easy
+
+By SCOTT ANDERSON
+
+Reporter
+
+Hi. I‘m going to be writing a com-
+puter advice column about different
+campus computing resources like
+Dreams or MS Word for the semes»
+ter. Often I’ll spend time complain»
+ing about how bad or out of date the
+resource is. and then explain how to
+use it better.
+
+Take Dreams, the program that
+most students use to access their e»
+mail. It is a fairly difﬁcult system to
+use. go over to the MathLAN some-
+time and type Elm or Pine at the com-
+mand prompt.
+
+They are both mum to use than
+Dreams and manage large amounts
+of e-mail better. But since Dreams
+is all we‘ve got, that‘s what I’m goA
+ing to try and explain today.
+
+If you have any more questions that
+I haven‘t answered, ask a User Con-
+sultant. UC. they can always be
+found next to the orange flag in
+YMCA, Gchomp in ARI-l, or the
+MathAN. UC's can also be found
+by typing UCFINDER at the VAX
+prompt.
+
+Making Dreams easy begins when
+you log into the VAX and see a new
+mail message from a friend, call the
+person Ian. All VAX Commands to
+type into the computer will be in ital—
+ic:..
+
+Now to begin with the commands,
+first type new to get a listing of your
+e-mail. Then select the number of
+the e-mail from Ian. After reading
+Ian's message, you like what he has
+said and want to be able to reply to
+speciﬁc pans of his letter.
+
+At the “Action <Keep>7" prompt
+Iype reply/extract and hit <enter>,
+this copies Ian‘s message into your
+reply to him. A list ofthe commands
+so far is as follows.
+
+5 new
+Initial Action <Read 1)? 1
+Action <Keep>7 reply/extract
+
+To edit specific parts of his letter,
+you need to invoke the text editor
+which allows you to move between
+lines of the letter you write and
+make corrections
+
+On a Macintosh, hit the / key on
+the numeric keypad on the far right
+ofthe keyboard. On a PC, hit the *
+key on the numeric keypad.
+
+Now you can reply to and delete
+any part ofIan’s message you want.
+Generally speaking, chl with a
+greater than sign (>) in front of it is
+the other person’s message
+
+Once you have written your reply
+to Ian‘s message, hit the “control
+key" and “e" at the same time. It‘
+by accident you hit <Cirl»Z> likc
+normal to send the message. don’t
+worry, just type exit and then you
+get a list ofcommands which allow
+you to send the message.
+
+Hit <enter> to send the message
+and you’re done. Here’s What it
+looks like.
+
+Ctrl-E or Ctrl-Z
+:exit
+Edit option <send>: send
+Next, suppose another friend
+
+'Kathy sent an e»mail that you
+
+thought was funny and you waiiled
+to save it, and print it out, Type m
+at your VAX prompt to get ti list of
+emails.
+
+This command also lets you scroll
+through an e-mail page by page in-
+stead of having the entire message
+ﬂash by quickly. Once you have se»
+lected and read Kathy's message. at
+the “Action <chp>7" prompt type
+output funnyixt. This outputs
+Kathy’s message to a file in your
+VAX account Funny.txt is the
+ﬁlename you assign to Kathy's e—
+mail message. like naming a file in
+MS Word.
+
+To print funnytxt, type prinl/
+aniir:Cawlcs/ fininytrt, ask a UC
+for help if you want to print some—
+where clse. Funnytxt can also be
+included in e»mails to otlicr people.
+when you are sending an e»mail to
+the person who would like Kathy's
+message, on a blank line type
+@fmmy.t.rl.
+
+3% in
+Action <Keep>? output funny.txt
+$ print/queue:Cowlesl funnytxt
+
+These ate Just a few of the com-
+mantis available in Dreams, type help
+mail sometime at the VAX prompt
+to lctirii inorc. Ifyou have any ques»
+tions or continents, or good topics for
+this column, me at
+ultdersa:@tlc.g7t'txrzltl.
+
+There is also more infonnation on
+the S&B web page, Please explore
+this to make dreams easier for you.
+
+e-nlnll
+
+Whimsies about a
+crazy Iowa summer
+
+By DUSTIN KEY
+Staff Writer
+
+Expectations are low when one
+dwells ovel tlic‘ possibility ofspend-
+ing summer in good old Grinnell.
+How could aliyjoy be derived from
+a town which barely pushes a popu»
+lation of 9,000 and doesn’t even
+have a MC Donaldsl However,
+when one-tweltli of the student
+body decides to live in Grinnell
+over the summer, the 5&3 decides
+to investigate.
+
+Any student who spends their
+summer in Grinncll will ineVitably
+be ridiculed and asked the question:
+‘Wliy‘l'. When they are asked their
+cadence is to the effect of ‘Why
+not.’ Yes, why not?
+
+Most students report that the main
+reason they decided to stay in
+Grinnell is that they do not wish to
+live with their parents and rent here
+is cheap Chris deBeer ‘97 says “I
+wanted to live in something I was
+paying rent for. And since I_didn’l
+want to pay a lot rent I decided to
+stay in Grinnell.“
+
+Students usually have no trouble
+securing monthly rent around $100
+to $140, often including ulililies
+and various other |ife»fornis (Le.
+bats, wasps. rats, mice) The cost
+orliving here seems reasonable to
+most and one would have to try re»
+
+ally hard in order to find a place
+within Grinncll to spend lots of
+money.
+
+In older to sustain income. the vast
+majority of students have found
+themselves working in either
+Grinncll's food service industry,
+Burling, or science research. This
+summer, science research seemed to
+have been reduced as a result ofthe
+building construction.
+
+But there is more to life here Iliaii
+sheer economy. For those who do it.
+living in Grinnell seems to provide a
+better sense ofcommunily and intone
+sifles the Grinnell experience. Jason
+Nagcl ‘97 encapsulates much of the
+summer when he says “It‘s a differ»
+ent town when you're not trapped on
+the campus. You feel like you're
+more in touch with the community
+And...there was a lot of drinking ”
+
+[can only guess about the drinking,
+but indeed while I was here for the
+summer I personally met many Grin-
+nell store owners and customers who
+were anxious to have conversations
+about the community. I can attest that
+one’s feelings for Grinnell intensity
+as one spends more time here, espe»
+cially in the slow, care»free manner
+that the summer provides.
+
+Grinnnellians who spent the sum-
+mer met students returning home for
+the summer from other institutions
+across the nation, and even the world, .
+
+ 
+
+Reporters
+Photographers
+Layout Experts
+
+Ad Sales Associates
+
+Eat in the paper.
+
+VAX SANDB
+
+ 
+
+ 
+
+Town and gown relations seemed to
+do prctty well this summer. There
+was a lot of bonding between
+Grinnelllltns of the college and
+Gl’lnnelltansoi the town. MLE Davis
+‘98 who states "this has been a sum-
+mcrofhcatltil'ul stagnation”, says also
+that she bontled well with the town
+folk as she worked at the Back Alley
+Deli mid Pizza Hut. This is not to
+say that Grinncll college students
+didn't broaden relationships amongst
+themselves and other faculty and
+staff.
+
+Eondingtook various creative forms
+during the summer. After working
+most of the day many students would
+find themselves at Jitnbo’s watching
+the Simpdrms, as they probably did
+during the school»yelir, anyway.
+
+On Tuesday alid Thursday evenings
+as many as ﬁfty students would con-
+gl'egute iii ordcr to play volleyball.
+Alirens park (located on the east pe-
+rimeter of Grinnell) would often at-
+tract n dozen or so to play basketball.
+Various houses would take turns
+throwingtlinncr parties, or sometimes
+otliei less stable fot'ms‘of partying.
+Thesulnincrrcsidents'ofBlLte House
+apparcnii y made it home movie about
+LilliOMILIIx
+
+Aflct mo summers of Grinnell, I
+still claim that there is nothing better
+than‘ oing into Cunningham’s on a
+hot tidy and having it nice ﬂoat. Oth~
+en eiaim thin taking an illicit dip in
+the Country Club’s pool is what they
+would want. I advise against this; I
+have heard too many stories of folks
+being chased out of there by the po-
+lice, sometimes ileclng through the
+dark completely naked. Many would
+go to Rock Creek, which does have a
+well-hidden bench.
+
+[must report thlit the mythical High
+street block»paity didn‘thnppen. Al-
+though, squirredancing bccame a fe-
+tish and tilt: Powesiiiek Pluckers
+would happily pltiy tunes for the rest
+oi ns. Their: was sortie dancing done
+oli High SllCCI, And. of course,
+people would have long conversa—
+tions on pinches tintl phones, watch
+videos, and visit drinking establish»
+merits,
+
+For sonic. the summer at Grinnell
+was too much; they hint to get out of
+here. such an csctipc would involve
+a our, six to ten c ‘r faces, and in»
+sane quantities of h being spent in
+order to put-chasc objects which didn’t
+exist in Grinnell,
+
+ 
+
+» You too can drink martinis.
+
+Add Imported TanquerayTM gin to
+ice, plus a splash of Martini &
+RossiTM vermouth. Stir. Add
+01ive(s). Drink slowly.
+You can find everything you need
+for a super martini at the Wine
+
+Cellar.
+
+'l'HEWllIECEIlAR
+
+919 BROAD STREET
+
+GRINNELL
+236-6014
+
+WINE 0 lIOUOR 0 COFFEE
+
+ 
+
+ 
+
+ 
+
