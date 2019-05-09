@@ -30,11 +30,11 @@ The *unstructured* folders include the entire batch of txt files, with no sub-fo
 The file naming convention (maintained from ArcaSearch digitized files) adheres to the following structure:
 
 <blockquote>
-  <ul><li>Sample file name: usiagrc_scb_1894_09_12_50_000_00001-00000_000.txt</li>
-    <li>Issue year: 1894</li>
-    <li>Issue month: 09 (September)</li>
-    <li>Issue date: 12 (Twelth)</li>
-    <li>Issue page: 00001</li></ul>
+ Sample file name: usiagrc_scb_1894_09_12_50_000_00001-00000_000.txt
+ Issue year: 1894
+ Issue month: 09 (September)
+ Issue date: 12 (Twelth)
+ Issue page: 00001
 </blockquote>
 
 
