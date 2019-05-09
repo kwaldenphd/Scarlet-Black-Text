@@ -17,6 +17,27 @@ OCR conversion of the tiff image scans was accomplished using [Tesseract 4](http
 
 Two Python libraries, [aspell](https://github.com/WojciechMula/aspell-python) and [hunspell](https://github.com/blatinier/pyhunspell), were used to clean the OCR output. The results of both cleaning processes are included in this repo. The Python scripts used to clean the OCR output are also included in this repo.
 
+## Repo Structure
+
+*aspell_cleaner.py* and *hunspell_cleaner.py* include the Python scripts used to clean the Tesseract output. 
+
+The *original_ocr_results* folders include the direct output of the Tesseract OCR process. 
+
+The *ocr_results_aspell* folders include the output from the aspell cleaning process. The *ocr_results_hunspell* folders include the output from the hunspell cleaning process.
+
+The *unstructured* folders include the entire batch of txt files, with no sub-folder structure. The *structured* folders organize the txt files by decade, year, and month.
+
+The file naming convention (maintained from ArcaSearch digitized files) adheres to the following structure:
+
+<blockquote>
+  <ul><li>Sample file name: usiagrc_scb_1894_09_12_50_000_00001-00000_000.txt</li>
+    <li>Issue year: 1894</li>
+    <li>Issue month: 09 (September)</li>
+    <li>Issue date: 12 (Twelth)</li>
+    <li>Issue page: 00001</li></ul>
+</blockquote>
+
+
 ## Acknowledgements:
 
 This project would not have been possible without the indefatibable efforts of former Grinnell student Papa Kojo Ampim-Darko, supported by Sarah Purcell. Julia Bauder provided invaluable technical expertise getting the project off the ground and providing access to the digitized S&B files. Katie Walden served as de-facto project manager, coordinating the various units and individuals involved. The support of Mike Conner and [Sam Rebelsky](https://www.grinnell.edu/user/rebelsky) (Professor of Computer Science), provided necessary access to HPC resources. Additional thanks to [Jarren Santos](https://www.grinnell.edu/user/santosja) (Data Scientist and Grinnell College Class of 2017) of the [Data Analysis and Social Inquiry Lab](http://dasil.sites.grinnell.edu/) for his support of this project.
